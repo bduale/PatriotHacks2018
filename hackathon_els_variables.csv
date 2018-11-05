@@ -1,0 +1,3351 @@
+Var_Name,Var_Label
+F3BYPNLWT,"Panel weight, BY and F3 (2002 and 2012)"
+STU_ID,Analysis case ID
+STU_ID,Student ID
+SCH_ID,School ID
+SCH_ID,School ID of course school
+STRAT_ID,Stratum
+PSU,Primary sampling unit
+F1SCH_ID,Link to first follow-up school (only ELS SCH_ID)
+F1UNIV1,Sample member status in BY and F1 rounds
+F1UNIV2A,Base year status and how sample member entered F1 sample
+F1UNIV2B,Sample member F1 status
+F2UNIV_P,Sample member status in first 3 rounds
+F3UNIV,Cross-round sample member status summary (BY to F3)
+F3UNIVG10,Cross-round sample member status summary (BY to F3) specific to 10th grade cohort
+F3UNIVG12,Cross-round sample member status summary (BY to F3) specific to 12th grade cohort
+G10COHRT,Sophomore cohort member in 2001-2002 school year
+G12COHRT,Spring 2004 senior cohort member
+BY10FLP,Grade 10 percent free lunch-categorical
+BYA04,Way of teaching students with different abilities
+BYA05,Crime in students^ neighborhood
+BYA06,Type of academic calendar
+BYA07,# of days in school year for 10th graders
+BYA08,# class periods in day for 10th graders
+BYA09,# of minutes of average 10th grade class period
+BYA10,Typical semester class load for 10th graders
+BYA11,School is coeducational
+BYA12A,% in school-sponsored community service
+BYA12B,% in work study program
+BYA12C,% in academic counseling program
+BYA12D,% in vocational counseling program
+BYA12E,% in dropout prevention program
+BYA12F,% in gang prevention program
+BYA12G,% in alcohol/drug prevention program
+BYA12H,% in AIDS education program
+BYA12I,% in crisis prevention program
+BYA13,When parents notified of absences
+BYA14A,% 10th graders in general high school program
+BYA14B,% 10th graders in college prep program
+BYA14C,% 10th graders in other specialized programs
+BYA14D,% 10th graders in voc/tech/business program
+BYA14E,% 10th graders in special ed program
+BYA14F,% 10th graders in alternative program
+BYA14G,% 10th graders receive bilingual education
+BYA14H,% 10th graders receive ESL
+BYA14I,% 10th graders receive remedial reading
+BYA14J,% 10th graders receive remedial math
+BYA14K,% 10th graders in after school/summer outreach
+BYA15A,Students develop career plan
+BYA15B,Students select career major/pathway
+BYA15C,Students in program to prepare for college
+BYA16,Vocational-technical programs offered
+BYA17A,Agriculture/renewable resource courses offered
+BYA17B,Business courses offered
+BYA17C,Marketing/distribution courses offered
+BYA17D,Health care courses offered
+BYA17E,Public/protective service courses offered
+BYA17F,Construction courses offered
+BYA17G,Mechanics and repair courses offered
+BYA17H,Precisions production courses offered
+BYA17I,Trade/industry/transportation courses offered
+BYA17J,Computer technology courses offered
+BYA17K,Communication technology courses offered
+BYA17L,Other technology courses offered
+BYA17M,Food service and hospitality courses offered
+BYA17N,Child care/education courses offered
+BYA17O,Personal and other services courses offered
+BYA17P,Other occupational courses offered
+BYA17Q,Family/consumer sciences courses offered
+BYA17R,Industrial arts/technology courses offered
+BYA18A,Cooperative education offered to 10th graders
+BYA18B,Internships offered to 10th graders
+BYA18C,Job shadowing offered to 10th graders
+BYA18D,Mentoring offered to 10th graders
+BYA18E,Community service offered to 10th graders
+BYA18F,School-based enterprise offered to 10th graders
+BYA19AA,Baseball offered to males
+BYA19AB,Baseball offered to females
+BYA19BA,Softball offered to males
+BYA19BB,Softball offered to females
+BYA19CA,Basketball offered to males
+BYA19CB,Basketball offered to females
+BYA19DA,Football offered to males
+BYA19DB,Football offered to females
+BYA19EA,Soccer offered to males
+BYA19EB,Soccer offered to females
+BYA19FA,Swim team offered to males
+BYA19FB,Swim team offered to females
+BYA19GA,Ice hockey offered to males
+BYA19GB,Ice hockey offered to females
+BYA19HA,Field hockey offered to males
+BYA19HB,Field hockey offered to females
+BYA19IA,Volleyball offered to males
+BYA19IB,Volleyball offered to females
+BYA19JA,Lacrosse offered to males
+BYA19JB,Lacrosse offered to females
+BYA19KA,Tennis offered to males
+BYA19KB,Tennis offered to females
+BYA19LA,Cross-country offered to males
+BYA19LB,Cross-country offered to females
+BYA19MA,Track offered to males
+BYA19MB,Track offered to females
+BYA19NA,Golf offered to males
+BYA19NB,Golf offered to females
+BYA19OA,Gymnastics offered to males
+BYA19OB,Gymnastics offered to females
+BYA19PA,Wrestling offered to males
+BYA19PB,Wrestling offered to females
+BYA19QA,Cheerleading offered to males
+BYA19QB,Cheerleading offered to females
+BYA19RA,Drill team offered to males
+BYA19RB,Drill team offered to females
+BYA19SA,Other sport offered to males
+BYA19SB,Other sport offered to females
+BYA19TA,No sports offered to males
+BYA19TB,No sports offered to females
+BYA20,% 10th graders are LEP or non-English proficient
+BYA22B,# of part-time teachers
+BYA23A,# of full-time math teachers
+BYA23B,# of full-time science teachers
+BYA23C,# of full-time art teachers
+BYA23D,# of full-time music teachers
+BYA23E,# of full-time English teachers
+BYA23F,# of full-time foreign language teachers
+BYA23G,# of full-time social sciences teachers
+BYA23H,# of full-time history teachers
+BYA23I,# of full-time vocational education teachers
+BYA23J,# of full-time physical education teachers
+BYA23K,# full-time guidance counselors
+BYA23L,# full-time special education teachers
+BYA24A,% full-time teachers are certified
+BYA24B,% part-time teachers are certified
+BYA25A,% full-time teachers teach out of field
+BYA25B,% part-time teachers teach out of field
+BYA26A,Lowest salary paid to full-time teachers
+BYA26B,Highest salary paid to full-time teachers
+BYA27A,Principal/administrator evaluates teachers
+BYA27B,Teachers evaluate teachers
+BYA27C,Students evaluate teachers
+BYA28A,Good teachers given special awards
+BYA28B,Good teachers assigned to better students
+BYA28C,Good teachers given a lighter teaching load
+BYA28D,Good teachers relieved of administrative/disciplinary duties
+BYA28E,Good teachers given priority on requests for materials
+BYA28F,Good teachers receive higher pay
+BYA28G,Good teachers are not recognized in these ways
+BYA29,Content standards for academic subjects
+BYA30,Main source of content standards
+BYA31,Content standards linked with performance standards
+BYA32,Students must pass a test for high school diploma
+BYA33AA,Minimum competency test given in grade 7
+BYA33AB,Math is on grade 7 competency test
+BYA33AC,Science is on grade 7 competency test
+BYA33AD,English is on grade 7 competency test
+BYA33AE,History/social studies is on grade 7 competency test
+BYA33BA,Minimum competency test given in grade 8
+BYA33BB,Math is on grade 8 competency test
+BYA33BC,Science is on grade 8 competency test
+BYA33BD,English is on grade 8 competency test
+BYA33BE,History/social studies is on grade 8 competency test
+BYA33CA,Minimum competency test given in grade 9
+BYA33CB,Math is on grade 9 competency test
+BYA33CC,Science is on grade 9 competency test
+BYA33CD,English is on grade 9 competency test
+BYA33CE,History/social studies is on grade 9 competency test
+BYA33DA,Minimum competency test given in grade 10
+BYA33DB,Math is on grade 10 competency test
+BYA33DC,Science is on grade 10 competency test
+BYA33DD,English is on grade 10 competency test
+BYA33DE,History/social studies is on grade 10 competency test
+BYA33EA,Minimum competency test given in grade 11
+BYA33EB,Math is on grade 11 competency test
+BYA33EC,Science is on grade 11 competency test
+BYA33ED,English is on grade 11 competency test
+BYA33EE,History/social studies is on grade 11 competency test
+BYA33FA,Minimum competency test given in grade 12
+BYA33FB,Math is on grade 12 competency test
+BYA33FC,Science is on grade 12 competency test
+BYA33FD,English is on grade 12 competency test
+BYA33FE,History/social studies is on grade 12 competency test
+BYA34A,Competency test is state requirement
+BYA34B,Competency test is district requirement
+BYA34C,Competency test is school requirement
+BYA35,Competency test tied to content standards
+BYA36,% fail competency test on first attempt
+BYA37A,Retake competency test if failed
+BYA37B,Take remedial class if fail competency test
+BYA37C,Complete competency test preparation class if fail
+BYA37D,Tutoring/individualized academic program if fail competency test
+BYA37E,Summer school if fail competency test
+BYA37F,Referred to alternative/continuing ed school if fail competency test
+BYA38A,Control access to buildings during school hours
+BYA38B,Control access to grounds during school hours
+BYA38C,Require students pass through metal detector
+BYA38D,Random metal detector checks on students
+BYA38E,Close campus for students during lunch
+BYA38F,Random dog sniffs to check for drugs
+BYA38G,Random sweeps for contraband
+BYA38H,Require drug testing for any students
+BYA38I,Require students to wear uniforms
+BYA38J,Enforce strict dress code
+BYA38K,Require clear book bags/ban book bags
+BYA38L,Require students to wear badges/picture ID
+BYA38M,Require faculty/staff to wear badges/picture ID
+BYA38N,Use security cameras to monitor school
+BYA38O,Telephones in most classrooms
+BYA38P,Emergency call button in classrooms
+BYA39A,Process to get parent input on discipline policies
+BYA39B,Training parents to deal with problem behavior
+BYA39C,Program involves parents in school discipline
+BYA40A,Use paid security at any time during school hours
+BYA40B,Use paid security as students arrive or leave
+BYA40C,Use paid security at school activities
+BYA40D,Use paid security outside of school hours/activities
+BYA40E,Use paid security at other time
+BYA41A,Teachers have access to cable TV
+BYA41B,Teachers have access to closed-circuit TV
+BYA41C,Teachers have access to videodisc player/VCR/DVD
+BYA41D,Teachers have access to video camera
+BYA41E,Teachers have access to video production studio
+BYA41F,Teachers have access to satellite TV hook-up
+BYA41G,Teachers have access to videoconferencing equipment
+BYA41H,Teachers have access to digital camera
+BYA41I,Teachers have access to scanner
+BYA41J,Teachers have access to LCD panel
+BYA41K,Teachers have access to laptop computer
+BYA41L,Teachers have access to Internet
+BYA41M,Teachers have access to computer printer
+BYA42A,Teachers use computers as instructional tools
+BYA42B,Teachers use computers to plan lessons
+BYA42C,Teachers use computers for professional development courses
+BYA42D,Teachers use computers to communicate with colleagues
+BYA42E,Teachers use computers to access best practices
+BYA42F,Teachers use computers to communicate with parents
+BYA42G,Teachers use computers to post homework
+BYA42H,Teachers/staff use computers to communicate with each other
+BYA42I,Teachers use computers to teach job skills
+BYA42J,Administrative staff use computers for administrative purposes
+BYA42K,Administrative staff use computers to communicate with colleagues
+BYA42L,Administrative staff use computers to communicate with parents
+BYA42M,School offers students distance learning courses
+BYA42N,Teachers have access to Internet professional development programs
+BYA43A,Teacher training on use of new software
+BYA43B,Teacher training on use of Internet
+BYA43C,Teacher training on using computers to teach skills
+BYA43D,Teacher training on integrating computer into class
+BYA43E,Teacher training on basic computer literacy
+BYA44A,Computers in administrative offices
+BYA44B,Computers in teacher work rooms
+BYA44C,Computers in classrooms
+BYA44D,Computers in the library media center
+BYA44E,Computers in separate computer lab
+BYA46A,Principal^s influence on hiring/firing teachers
+BYA46B,Principal^s influence on grouping students
+BYA46C,Principal^s influence on course offerings
+BYA46D,Principal^s influence on instructional materials
+BYA46E,Principal^s influence on curricular guidelines
+BYA46F,Principal^s influence on grading and evaluation
+BYA46G,Principal^s influence on discipline policies
+BYA46H,Principal^s influence on school funds
+BYA47A,School^s relationship with school board
+BYA47B,School^s relationship with central office
+BYA47C,School^s relationship with teachers^ association
+BYA48A,Principal evaluated on standardized test scores
+BYA48B,Principal evaluated on school environment
+BYA48C,Principal evaluated on efficient administration
+BYA48D,Principal evaluated on parent involvement
+BYA48E,Principal evaluated on relationship with community
+BYA48F,Principal evaluated on new programs/reform
+BYA49A,How often tardiness a problem at school
+BYA49B,How often absenteeism a problem at school
+BYA49C,How often class cutting a problem at school
+BYA49D,How often physical conflicts a problem at school
+BYA49E,How often robbery/theft a problem at school
+BYA49F,How often vandalism a problem at school
+BYA49G,How often use of alcohol a problem at school
+BYA49H,How often use of illegal drugs a problem at school
+BYA49I,How often students on drugs/alcohol at school a problem
+BYA49J,How often sale of drugs near school a problem
+BYA49K,How often possession of weapons a problem at school
+BYA49L,How often physical abuse of teachers a problem at school
+BYA49M,How often racial tension among students a problem at school
+BYA49N,How often student bullying a problem at school
+BYA49O,How often verbal abuse of teachers a problem at school
+BYA49P,How often disorder in classrooms a problem at school
+BYA49Q,How often student disrespect for teachers a problem at school
+BYA49R,How often gang activity a problem at school
+BYA49S,How often cult/extremist group activities a problem at school
+BYA50A,Learning hindered by poor condition of buildings
+BYA50B,Learning hindered by poor heating/air/light
+BYA50C,Learning hindered by poor science labs
+BYA50D,Learning hindered by poor fine arts facilities
+BYA50E,Learning hindered by lack of space
+BYA50F,Learning hindered by poor library
+BYA50G,Learning hindered by lack of texts/supplies
+BYA50H,Learning hindered by too few computers
+BYA50I,Learning hindered by lack of multi-media
+BYA50J,Learning hindered by lack of discipline/safety
+BYA50K,Learning hindered by poor voc/tech equipment/facilities
+BYA51A,Student morale is high
+BYA51B,Teachers press students to achieve
+BYA51C,Teacher morale is high
+BYA51D,Learning is high priority for students
+BYA51E,Students expected to do homework
+BYA53,Date completed interview
+BYACCLIM,BY Academic climate scale
+BYACTCTL,Action control: general effort and persistence scale
+BYADMFLG,Base year school administrator questionnaire completed
+BYADMSTA,Base year administrator questionnaire status
+BYBASEBL,Interscholastic baseball participation
+BYBSKTBL,Interscholastic basketball participation
+BYCHRDRL,Interscholastic cheerleading/drill team participation
+BYCONEXP,Control expectation scale
+BYDOB_P,Student^s year and month of birth
+BYENGLSE,BY English self-efficacy scale
+BYERACE,English teacher^s race/ethnicity-composite
+BYF01A,Trash on front hallway floors
+BYF01B,Overflowing trashcans in hallway
+BYF01C,Broken lights in hallway
+BYF01D,Graffiti on hallway walls/doors/ceiling
+BYF01E,Graffiti on lockers in hallway
+BYF01F,Visible fire/emergency alarms in hallway
+BYF01G,Chipped paint in hallway
+BYF01H,Hallway ceilings in disrepair
+BYF01I,Visible safety exit signs in hallway
+BYF01J,Hallway floor and walls appear clean
+BYF02,Noise level of main entrance during class
+BYF03A,Visitor check-in sign observed
+BYF03B,Sign stating ^no drugs^ observed
+BYF03C,Sign stating ^no trespassing^ observed
+BYF03D,Sign stating ^no weapons^ observed
+BYF04A,Graffiti on bathroom walls and ceilings
+BYF04B,Graffiti on bathroom stall doors/walls
+BYF04C,Trash on bathroom floor
+BYF04D,Overflowing trashcans in bathroom
+BYF04E,Doors on all bathroom stalls
+BYF04F,Students loitering in bathroom during class
+BYF04G,Students smoking in bathroom during class
+BYF05A,Locks on inside of classroom door
+BYF05B,Classroom ceiling in disrepair
+BYF05C,Broken lights in classroom
+BYF05D,Graffiti on classroom walls/ceiling/doors
+BYF05E,Graffiti on classroom desks
+BYF05F,Trash on classroom floor
+BYF05G,Overflowing trashcan in classroom
+BYF05H,Classroom floor and walls appear clean
+BYF05I,Posters or material on classroom windows
+BYF05J,Bars on classroom windows
+BYF05K,Classroom windows broken
+BYF06A,Students wear ID badges
+BYF06B,Teachers wear ID badges
+BYF06C,Other personnel wear ID badges
+BYF06D,Visitors wear ID badges
+BYF07,School has parking lots
+BYF08A,# entrances/exits to parking lots
+BYF08B,# entrances/exits monitored by video
+BYF08C,# entrances/exits monitored by guard
+BYF08D,# entrances/exits locked during day
+BYF09A,How much litter/trash in area around school
+BYF09B,How much graffiti in area around school
+BYF09C,How many boarded up buildings in area around school
+BYF09D,How many people congregated in area around school
+BYF09E,How many students loitering in area around school
+BYF10A,Observed security guard
+BYF10B,Observed metal detectors
+BYF10C,Observed security cameras
+BYF10D,Observed fencing around entire school
+BYF10E,Observed sign-in policies
+BYF10F,Observed adult direct guests to sign-in
+BYF10G,Observed fire alarms
+BYF10H,Observed fire extinguishers
+BYF10I,Observed fire sprinklers
+BYF10J,Observed exterior lights
+BYF10K,Observed student lockers
+BYF10L,Observed student uniforms
+BYF10M,Observed signs-alarm if door opened
+BYFAEDIM,Imputation flag - BYFATHED
+BYFATHED,Father^s highest level of education-composite
+BYFCMPIM,Imputation flag - BYFCOMP
+BYFCOMP,Family composition
+BYFOOTBL,Interscholastic football participation
+BYFRGRIM,Number of 10th grader^s friends who consider grades very important
+BYFRRACE,Number of 10th grader^s friends who are of a different race
+BYFTTP,Number of full-time teachers categorical
+BYG10EP,Grade 10 enrollment-2001/02 school roster-categorical
+BYGNSTAT,Generational status
+BYGPARED,Highest reported level of education among parents^ parents
+BYGRDRPT,Number of grades repeated (K-10)
+BYHISPOR,BY highest level of participation in interscholastic athletics
+BYHMWRK,BY hours per week spent on homework (in and out of school)
+BYHOMLIT,BY home literacy resources
+BYHOMLNG,Student^s native language-composite
+BYIEPFLG,Base year Individualized Education Plan
+BYINCMIM,Imputation flag - BYINCOME (BYP85)
+BYINCOME,Total family income from all sources 2001-composite
+BYINSTMO,Instrumental motivation (utility interest) scale
+BYL01,How library is organized
+BYL02,Library^s total seating capacity
+BYL03A,Library has individual activity areas
+BYL03B,Library has small group activity areas
+BYL03C,Library has large group activity areas
+BYL03D,Library has staff work area
+BYL03E,Library has conference rooms
+BYL03F,Library has computer access area/lab
+BYL04,Library can accommodate full class
+BYL05,Library serves full class/other activity at once
+BYL06AA,Staff includes state-certified librarians
+BYL06AB,# full-time state-certified librarians
+BYL06AC,# part-time state-certified librarians
+BYL06BA,Library media center staff includes state-certified teachers
+BYL06BB,# full-time state-certified teachers in library media center
+BYL06BC,# part-time state-certified teachers in library media center
+BYL06CA,Library media center staff includes uncertified professionals
+BYL06CB,# full-time uncertified professionals in library media center
+BYL06CC,# part-time uncertified professionals in library media center
+BYL06DA,Staff includes paid library aides
+BYL06DB,# full-time paid library aides
+BYL06DC,# part-time paid library aides
+BYL07,Volunteers provide library services
+BYL08A,# of adult library volunteers
+BYL08B,# of student library volunteers
+BYL09,District has library media coordinator
+BYL10,District library media coordinator is full-time
+BYL11AA,Library has telephone
+BYL11AB,Years library has had telephone
+BYL11AC,Students may use telephone
+BYL11AD,Faculty/staff may use telephone
+BYL11AE,Library staff may use telephone
+BYL11BA,Library has fax machine
+BYL11BB,Years library has had fax machine
+BYL11BC,Students may use fax machine
+BYL11BD,Faculty/staff may use fax machine
+BYL11BE,Library staff may use fax machine
+BYL11CA,Library has photocopier
+BYL11CB,Years library has had photocopier
+BYL11CC,Students may use photocopier
+BYL11CD,Faculty/staff may use photocopier
+BYL11CE,Library staff may use photocopier
+BYL11DA,Library has VCR
+BYL11DB,Years library has had VCR
+BYL11DC,Students may use VCR
+BYL11DD,Faculty/staff may use VCR
+BYL11DE,Library staff may use VCR
+BYL11EA,Library has laser disc player
+BYL11EB,Years library has had laser disc player
+BYL11EC,Students may use laser disc player
+BYL11ED,Faculty/staff may use laser disc player
+BYL11EE,Library staff may use laser disc player
+BYL11FA,Library has DVD player
+BYL11FB,Years library has had DVD player
+BYL11FC,Students may use DVD player
+BYL11FD,Faculty/staff may use DVD player
+BYL11FE,Library staff may use DVD player
+BYL11GA,Library has electronic book reader
+BYL11GB,Years library has had electronic book reader
+BYL11GC,Students may use electronic book reader
+BYL11GD,Faculty/staff may use electronic book reader
+BYL11GE,Library staff may use electronic book reader
+BYL11HA,Library has CD-ROM reader
+BYL11HB,Years library has had CD-ROM reader
+BYL11HC,Students may use CD-ROM reader
+BYL11HD,Faculty/staff may use CD-ROM reader
+BYL11HE,Library staff may use CD-ROM reader
+BYL11IA,Library has personal computer
+BYL11IB,Years library has had personal computer
+BYL11IC,Students may use personal computer
+BYL11ID,Faculty/staff may use personal computer
+BYL11IE,Library staff may use personal computer
+BYL11JA,Library has automated book circulation system
+BYL11JB,Years library has had automated book circulation system
+BYL11JC,Students may use automated book circulation system
+BYL11JD,Faculty/staff may use automated book circulation system
+BYL11JE,Library staff may use automated book circulation system
+BYL11KA,Library has Internet access
+BYL11KB,Years library has had Internet access
+BYL11KC,Students may use Internet access
+BYL11KD,Faculty/staff may use Internet access
+BYL11KE,Library staff may use Internet access
+BYL11LA,Library has cable TV
+BYL11LB,Years library has had cable TV
+BYL11LC,Students may use cable TV
+BYL11LD,Faculty/staff may use cable TV
+BYL11LE,Library staff may use cable TV
+BYL11MA,Library has closed-circuit TV
+BYL11MB,Years library has had closed-circuit TV
+BYL11MC,Students may use closed-circuit TV
+BYL11MD,Faculty/staff may use closed-circuit TV
+BYL11ME,Library staff may use closed-circuit TV
+BYL11NA,Library has video camera
+BYL11NB,Years library has had video camera
+BYL11NC,Students may use video camera
+BYL11ND,Faculty/staff may use video camera
+BYL11NE,Library staff may use video camera
+BYL11OA,Library has satellite TV hook-up
+BYL11OB,Years library has had satellite TV hookup
+BYL11OC,Students may use satellite TV hookup
+BYL11OD,Faculty/staff may use satellite TV hookup
+BYL11OE,Library staff may use satellite TV hookup
+BYL11PA,Library has audio equipment
+BYL11PB,Years library has had audio equipment
+BYL11PC,Students may use audio equipment
+BYL11PD,Faculty/staff may use audio equipment
+BYL11PE,Library staff may use audio equipment
+BYL11QA,Library has videoconference equipment
+BYL11QB,Years library had videoconference equipment
+BYL11QC,Students may use videoconference equipment
+BYL11QD,Faculty/staff may use videoconference equipment
+BYL11QE,Library staff may use videoconference equipment
+BYL11RA,Library has scanner
+BYL11RB,Years library had scanner
+BYL11RC,Students may use scanner
+BYL11RD,Faculty/staff may use scanner
+BYL11RE,Library staff may use scanner
+BYL11SA,Library has LCD panel/projection device
+BYL11SB,Years library had LCD panel/projection device
+BYL11SC,Students may use LCD panel/projection device
+BYL11SD,Faculty/staff may use LCD panel/projection device
+BYL11SE,Library staff may use LCD panel/projection device
+BYL11TA,Library has technology for disabled
+BYL11TB,Years library has had technology for disabled
+BYL11TC,Students may use technology for disabled
+BYL11TD,Faculty/staff may use technology for disabled
+BYL11TE,Library staff may use technology for disabled
+BYL12A,Online catalog available
+BYL12B,Other libraries^ online catalogs available
+BYL12C,Internet access available
+BYL12D,E-mail/chat room access available
+BYL12E,Reference/bibliography databases available
+BYL12F,General articles/news databases available
+BYL12G,College/career databases available
+BYL12H,Academic subject databases available
+BYL12I,Electronic books/journals/references/magazines available
+BYL12J,Educational software available
+BYL13,Library has multimedia production facility
+BYL14A,Has interlibrary loan program with area high schools
+BYL14B,Has interlibrary loan program with high schools in state
+BYL14C,Has interlibrary loan program with public libraries
+BYL14D,Has interlibrary loan program with the state library
+BYL14E,Has interlibrary loan program with colleges/universities
+BYL14F,Has other interlibrary loan program
+BYL15,School participates in distance learning
+BYL16A,2001 holdings-books
+BYL16B,2001 holdings-video
+BYL16C,2001 holdings-periodical subscriptions
+BYL16D,2001 holdings-electronic database subscription
+BYL17,Library has professional collection for teachers
+BYL18,# of professional collection volumes bought 2000-2001 school year
+BYL19,Total spent on computer hardware 2000-2001 school year
+BYL20,When students may use library on own
+BYL21A,Students may use library on own before/after school
+BYL21B,Students may use library on own during lunch break
+BYL21C,Students may use library on own during set times
+BYL21D,Students may use library on own between class/recess
+BYL21E,Students may use library on own at other time
+BYL22A,How often library used for classes at same time
+BYL22B,How often library used for one class only
+BYL22C,How often library used for small groups
+BYL23,How often library used for non-library activities
+BYL24,How many students use library per week
+BYL25,Total circulation per week
+BYL26,Maximum # of books students may take out
+BYL27A,Students may take out reference material
+BYL27B,Students may take out periodicals
+BYL27C,Students may take out AV materials
+BYL27D,Students may take out AV equipment
+BYL27E,Students may take out computer software
+BYL27F,Students may take out computer hardware
+BYL27G,Students may take out none of these
+BYL28,Parents allowed to check out material
+BYL29,Worked in this library during 2000-2001 school year
+BYL30A,How often worked with English teachers
+BYL30B,How often worked with math teachers
+BYL31A,School-board has policy on use of Internet
+BYL31B,School-board has copyright policy
+BYL31C,School-board has materials selection policy
+BYL31D,School-board has none of these policies
+BYL32,School has library policy/procedure manual
+BYL34,Library questionnaire respondent^s title
+BYL35,Date library questionnaire completed
+BYLGRRPT,Last grade repeated (K-10)
+BYLMCFLG,Base year library media center questionnaire completed
+BYMATHIM,Imputation flag - math scores
+BYMATHSE,BY mathematics self-efficacy
+BYMOEDIM,Imputation flag - BYMOTHED
+BYMOTHED,Mother^s highest level of education-composite
+BYMRACE,Math teacher^s race/ethnicity-composite
+BYNELS0M,ELS-NELS 1990 scale equated sophomore math score
+BYNELS2M,ELS-NELS 1992 scale equated sophomore math score
+BYNELS2R,ELS-NELS 1992 scale equated sophomore reading score
+BYNONUSG,Number of grades completed outside U.S. (K-10)
+BYNSPORT,BY number of interscholastic sports participated in at V or JV level
+BYOCC30,Occupation at age 30-coded
+BYOCCFIM,Imputation flag - BYOCCUF
+BYOCCHS,Occupation right after high school-coded
+BYOCCMIM,Imputation flag - BYOCCUM
+BYOCCUF,Father/male guardian^s occupation-composite
+BYOCCUM,Mother/female guardian^s occupation-composite
+BYP01,Relationship to 10th grader
+BYP02,Biological/adoptive parent lives with 10th grader
+BYP03,Lives with a spouse or partner
+BYP04,Spouse/partner^s relationship to 10th grader
+BYP05,How often 10th grader lives with respondent
+BYP06,# of dependents
+BYP07A,# full/adoptive brothers live with 10th grader
+BYP07B,# half-brothers live with 10th grader
+BYP07C,# step-brothers live with 10th grader
+BYP07D,# full/adoptive sisters live with 10th grader
+BYP07E,# half-sisters live with 10th grader
+BYP07F,# step-sisters live with 10th grader
+BYP07G,# of 10th grader^s children live with 10th grader
+BYP07H,# grandparents live with 10th grader
+BYP07I,# other relatives under 18 live with 10th grader
+BYP07J,# other relatives 18 or older live with 10th grader
+BYP07K,# non-relatives under 18 live with 10th grader
+BYP07L,# non-relatives 18 or older live with 10th grader
+BYP08,# of siblings 10th grader has
+BYP09,# of siblings who dropped out of high school
+BYP10,Current marital status of parent respondent
+BYP11,Parent respondent^s year of birth
+BYP12,Spouse/partner^s year of birth
+BYP13,Parent is Hispanic
+BYP17,Whether 10th grader^s mother^s birthplace in US or elsewhere
+BYP18,# of years ago mother came to US
+BYP20,Whether 10th grader^s father^s birthplace in US or elsewhere
+BYP21,# of years ago father came to US
+BYP23,Whether 10th grader^s birthplace in US or elsewhere
+BYP24,# of years ago 10th grader came to US
+BYP25,10th grader attended school outside US
+BYP26A,10th grader completed kindergarten outside US
+BYP26B,10th grader completed 1st grade outside US
+BYP26C,10th grader completed 2nd grade outside US
+BYP26D,10th grader completed 3rd grade outside US
+BYP26E,10th grader completed 4th grade outside US
+BYP26F,10th grader completed 5th grade outside US
+BYP26G,10th grader completed 6th grade outside US
+BYP26H,10th grader completed 7th grade outside US
+BYP26I,10th grader completed 8th grade outside US
+BYP26J,10th grader completed 9th grade outside US
+BYP26K,10th grader completed 10th grade outside US
+BYP26L,10th grader did not complete any grades outside US
+BYP27,Grade student placed in when started school in US
+BYP28,English is parent respondent^s native language
+BYP30A,How often parent speaks native language with spouse/partner
+BYP30B,How often parent speaks native language with children
+BYP30C,How often parent speaks native language with other relatives
+BYP30D,How often parent speaks native language with friends
+BYP31A,How well parent understands spoken English
+BYP31B,How well parent speaks English
+BYP31C,How well parent reads English
+BYP31D,How well parent writes English
+BYP32A,Problems reading English books/magazines
+BYP32B,Problems parent has filling out forms in English
+BYP32C,Problems parent has understanding 10th grader^s teachers
+BYP32D,Problems parent has making self understood by teachers
+BYP32E,Problems helping 10th grader with homework in English
+BYP33,Religious background of parent respondent
+BYP34A,Parent^s highest level of education completed
+BYP34B,Spouse/partner^s highest level of education completed
+BYP35A,Parent^s mother^s highest level of education
+BYP35B,Parent^s father^s highest level of education
+BYP35C,Spouse/partner^s mother^s highest level education
+BYP35D,Spouse/partner^s father^s highest level education
+BYP36,Parent working for pay during past week
+BYP37,Parent^s current work status
+BYP38,Whether parent ever held regular job for pay in US
+BYP39C,Parent^s job description category
+BYP40,Spouse/partner working for pay during past week
+BYP41,Spouse/partner^s current work status
+BYP42,Whether spouse/partner ever held regular job for pay in US
+BYP43C,Spouse/partner^s job description category
+BYP44A,10th grader attended day care program
+BYP44B,10th grader attended nursery/pre-school
+BYP44C,10th grader attended Head Start program
+BYP44D,10th grader attended kindergarten
+BYP45,# times 10th grader changed schools other than promotions
+BYP46,10th grader ever held back a grade
+BYP47A,10th grader held back because of parental request
+BYP47B,10th grader held back because of school request
+BYP47C,10th grader held back for other reason
+BYP48A,10th grader repeated kindergarten
+BYP48B,10th grader repeated 1st grade
+BYP48C,10th grader repeated 2nd grade
+BYP48D,10th grader repeated 3rd grade
+BYP48E,10th grader repeated 4th grade
+BYP48F,10th grader repeated 5th grade
+BYP48G,10th grader repeated 6th grade
+BYP48H,10th grader repeated 7th grade
+BYP48I,10th grader repeated 8th grade
+BYP48J,10th grader repeated 9th grade
+BYP48K,10th grader repeated 10th grade
+BYP49,Thinks 10th grader has disability
+BYP50A,10th grader has specific learning disabilities
+BYP50B,10th grader has speech/language impairments
+BYP50C,10th grader has mental retardation
+BYP50D,10th grader has emotional disturbance
+BYP50E,10th grader has hearing impairments
+BYP50F,10th grader has orthopedic impairments
+BYP50G,10th grader has visual impairments
+BYP50H,10th grader has other disability
+BYP51,10th grader ever had behavior problem at school
+BYP52A,School contacted parent about poor performance
+BYP52B,School contacted parent about school program for year
+BYP52C,School contacted parent about plans after high school
+BYP52D,School contacted parent about course selection
+BYP52E,School contacted parent about poor attendance
+BYP52F,School contacted parent about problem behavior
+BYP52G,School contacted parent about positive/good behavior
+BYP52H,School contacted parent about fundraising/volunteer work
+BYP52I,School contacted parent about helping with homework
+BYP52J,School contacted parent to obtain information for records
+BYP53A,Parent contacted school about poor performance
+BYP53B,Parent contacted school about school program for year
+BYP53C,Parent contacted school about plans after high school
+BYP53D,Parent contacted school about course selection
+BYP53E,Parent contacted school about poor attendance
+BYP53F,Parent contacted school about problem behavior
+BYP53G,Parent contacted school about positive/good behavior
+BYP53H,Parent contacted school about fundraising/volunteer work
+BYP53I,Parent contacted school about helping with homework
+BYP53J,Parent contacted school to provide information for records
+BYP54A,Belong to parent-teacher organization
+BYP54B,Attend parent-teacher organization meetings
+BYP54C,Take part in parent-teach organization activities
+BYP54D,Act as a volunteer at the school
+BYP54E,Belong to other organization with parents from school
+BYP55A,How often check that homework completed
+BYP55B,How often discuss report card
+BYP55C,How often know whereabouts
+BYP55D,How often make/enforce school night curfews
+BYP56A,Provide advice about selecting courses or programs
+BYP56B,Provide advice about plans for college entrance exams
+BYP56C,Provide advice about applying to college/school after hs
+BYP56D,Provide advice about jobs to apply for after high school
+BYP56E,Provide information about community/national/world events
+BYP56F,Provide advice about things troubling 10th grader
+BYP57A,Attended school activities with 10th grader
+BYP57B,Worked on homework/school projects with 10th grader
+BYP57C,Attended concerts/plays/movies with 10th grader
+BYP57D,Attended sports events outside school with 10th grader
+BYP57E,Attended religious services with 10th grader
+BYP57F,Attended family social functions with 10th grader
+BYP57G,Took day trips/vacations with 10th grader
+BYP57H,Worked on hobby/played sports with 10th grader
+BYP57I,Went shopping with 10th grader
+BYP57J,Went to restaurants with 10th grader
+BYP57K,Spent time talking with 10th grader
+BYP57L,Did something else fun with 10th grader
+BYP58A,Most people can learn to be good at math-parent^s opinion
+BYP58B,Must be born w/ability to be good at math-parent^s opinion
+BYP59BA,1st friend attends same school
+BYP59BB,2nd friend attends same school
+BYP59BC,3rd friend attends same school
+BYP59CA,Knows 10th grader^s 1st friend
+BYP59CB,Knows 10th grader^s 2nd friend
+BYP59CC,Knows 10th grader^s 3rd friend
+BYP59DA,Knows mother of 10th grader^s 1st friend
+BYP59DB,Knows mother of 10th grader^s 2nd friend
+BYP59DC,Knows mother of 10th grader^s 3rd friend
+BYP59EA,Knows father of 10th grader^s 1st friend
+BYP59EB,Knows father of 10th grader^s 2nd friend
+BYP59EC,Knows father of 10th grader^s 3rd friend
+BYP60A,Friend^s parent gave advice about teachers/courses
+BYP60B,Friend^s parent did favor
+BYP60C,Friend^s parent received favor
+BYP60D,Friend^s parent supervised 10th grader on field trip
+BYP61,10th grader has biological/adoptive parent living outside home
+BYP62,10th grader has contact with non-resident parent
+BYP63,Non-resident parent^s participation in education decisions
+BYP64A,Non-resident parent attended school open-house
+BYP64B,Non-resident parent attended PTA/PTO meeting
+BYP64C,Non-resident parent attended parent/teacher conference
+BYP64D,Non-resident parent attended school/class event
+BYP65,# of years parent has lived in current neighborhood
+BYP66,How involved parent feels in neighborhood/community
+BYP67,Level of crime in neighborhood
+BYP68,How safe is neighborhood
+BYP69A,Family rules for 10th grader about maintaining grade average
+BYP69B,Family rules for 10th grader about doing homework
+BYP69C,Family rules for 10th grader about doing household chores
+BYP69D,Family rules for 10th grader about watching TV
+BYP70,Days/week eat at least one meal with 10th grader
+BYP71,Computer in home that 10th grader may use
+BYP72,Computer has access to Internet
+BYP73,Uses computer to communicate with 10th grader^s school
+BYP74A,How often e-mails teachers/staff about 10th grader
+BYP74B,How often uses computer to learn about school events
+BYP74C,How often uses computer to express concern over policy
+BYP74D,How often uses computer to select classes for 10th grader
+BYP74E,How often uses computer to get information about homework
+BYP75,School has voice-messaging system
+BYP76,How often use voice-messaging system
+BYP77A,School assigns too little homework
+BYP77B,10th grader challenged at school
+BYP77C,10th grader working hard at school
+BYP77D,School preparing students well for jobs in workplace
+BYP77E,School preparing students well for college
+BYP77F,The school is a safe place
+BYP77G,Parents have adequate say in setting school policy
+BYP77H,Parents work together supporting school policy
+BYP77I,10th grader^s teachers are well trained
+BYP77J,Drinking on school grounds is problem
+BYP77K,Drug use on school grounds is problem
+BYP77L,Sale/use of drugs on way to/from school is problem
+BYP77M,Theft on school grounds is problem
+BYP77N,Violence on school grounds is problem
+BYP77O,Lack of discipline in class is problem
+BYP78,Satisfaction with 10th grader^s education up to now
+BYP79,How far in school wants 10th grader to go
+BYP80A,Post-sec school^s low expenses important to parent
+BYP80B,Availability of post-sec financial aid important to parent
+BYP80C,Post-sec school^s courses/curriculum important to parent
+BYP80D,Post-sec school^s athletic program important to parent
+BYP80E,Post-sec school^s active social life important to parent
+BYP80F,Living at home while attending post-sec important to parent
+BYP80G,Away from home while attending post-sec important to parent
+BYP80H,Post-sec school^s religious environment important to parent
+BYP80I,Post-sec school^s low crime important to parent
+BYP80J,Post-sec school^s job placement record important to parent
+BYP80K,Post-sec school^s grad school placement important to parent
+BYP80L,Post-sec school^s academic reputation important to parent
+BYP80M,Post-sec school^s easy admission important to parent
+BYP80N,Post-sec school^s racial/ethnic makeup important to parent
+BYP80O,Post-sec school^s size important to parent
+BYP81,How far in school parent expects 10th grader will go
+BYP82,Savings efforts for 10th grader^s education after high school
+BYP83A,Started a savings account
+BYP83B,Bought an insurance policy
+BYP83C,Bought U.S. savings bonds
+BYP83D,Made investments in stocks/real estate
+BYP83E,Set up a college investment fund
+BYP83F,Started working another job/more hours
+BYP83G,Established another form of savings
+BYP83H,Reduced other expenses in some way
+BYP83I,Planned to reduce other expenses in some way
+BYP83J,Remortgaged property/took out home-equity loan
+BYP83K,Planned to remortgage property/take out home-equity loan
+BYP83L,Had 10th grader put aside earnings
+BYP83M,Participated in state-sponsored college savings program
+BYP84,Amount of money set aside for 10th grader^s future education
+BYP85,Total family income from all sources 2001
+BYP86,# of earners contributed to family income
+BYP97,Received help in completing questionnaire
+BYP98A,10th grader helped with questionnaire
+BYP98B,Spouse/partner helped with questionnaire
+BYP98C,Other family member helped with questionnaire
+BYP98D,A friend helped with questionnaire
+BYP98E,Other person in community helped with questionnaire
+BYP99,Year/month parent questionnaire completed
+BYPARACE,Parent^s race/ethnicity-composite
+BYPARASP,How far in school parent wants 10th grader to go-composite
+BYPARED,Parents^ highest level of education
+BYPARLNG,Parent^s native language-composite
+BYPASPIM,Imputation flag - BYPARASP (BYP79)
+BYPISAME,ELS:2002-PISA:2003 concordance math score
+BYPISARE,ELS:2002-PISA:2000 concordance reading score
+BYPLANG,Parent^s English fluency
+BYPQSTAT,Base year parent questionnaire status
+BYQXDATP,Month/year of base year student questionnaire administration
+BYRACE,Student^s race/ethnicity-composite
+BYREADIM,Imputation flag - reading scores
+BYREGCTL,School type - region by control
+BYREGION,Geographic region of school
+BYREGURB,School type - region by urbanicity
+BYRISKFC,Number of academic risk factors in 10th grade
+BYS14,Sex of student
+BYS15,Student is Hispanic
+BYS20A,Students get along well with teachers
+BYS20B,There is real school spirit
+BYS20C,Students friendly with other racial groups
+BYS20D,Other students often disrupt class
+BYS20E,The teaching is good
+BYS20F,Teachers are interested in students
+BYS20G,Teachers praise effort
+BYS20H,In class often feels put down by teachers
+BYS20I,In class often feels put down by students
+BYS20J,Does not feel safe at this school
+BYS20K,Disruptions get in way of learning
+BYS20L,Misbehaving students often get away with it
+BYS20M,There are gangs in school
+BYS20N,Racial/ethnic groups often fight
+BYS21A,Everyone knows what school rules are
+BYS21B,School rules are fair
+BYS21C,Punishment same no matter who you are
+BYS21D,School rules are strictly enforced
+BYS21E,Students know punishment for broken rules
+BYS22A,Had something stolen at school
+BYS22B,Someone offered drugs at school
+BYS22C,Someone threatened to hurt 10th grader at school
+BYS22D,Got into a physical fight at school
+BYS22E,Someone hit 10th grader
+BYS22F,Someone forced money/things from 10th grader
+BYS22G,Someone damaged belongings
+BYS22H,Someone bullied or picked on 10th grader
+BYS23A,Won an academic honor
+BYS23B,Recognized for good attendance
+BYS23C,Recognized for good grades
+BYS23D,Received community service award
+BYS23E,Participated in science/math fair
+BYS23F,Participated in voc/tech skills competition
+BYS24A,How many times late for school
+BYS24B,How many times cut/skip classes
+BYS24C,How many times absent from school
+BYS24D,How many times got in trouble
+BYS24E,How many times put on in-school suspension
+BYS24F,How many times suspended/put on probation
+BYS24G,How many times transferred for disciplinary reasons
+BYS25AA,1st friend^s sex
+BYS25AB,2nd friend^s sex
+BYS25AC,3rd friend^s sex
+BYS25BA,1st friend is Hispanic
+BYS25BB,2nd friend is Hispanic
+BYS25BC,3rd friend is Hispanic
+BYS25DA,1st friend^s grade level at school
+BYS25DB,2nd friend^s grade level at school
+BYS25DC,3rd friend^s grade level at school
+BYS25EA,Importance of grades to 1st friend
+BYS25EB,Importance of grades to 2nd friend
+BYS25EC,Importance of grades to 3rd friend
+BYS25FA,10th grader knows 1st friend^s parents
+BYS25FB,10th grader knows 2nd friend^s parents
+BYS25FC,10th grader knows 3rd friend^s parents
+BYS25GA,Parents know 1st friend^s parents
+BYS25GB,Parents know 2nd friend^s parents
+BYS25GC,Parents know 3rd friend^s parents
+BYS26,High school program-student self-report
+BYS27A,Classes are interesting and challenging
+BYS27B,Satisfied by doing what expected in class
+BYS27C,Has nothing better to do than school
+BYS27D,Education is important to get a job later
+BYS27E,School is a place to meet friends
+BYS27F,Plays on a team or belongs to a club
+BYS27G,Learns skills for job in school
+BYS27H,Teachers expect success in school
+BYS27I,Parents expect success in school
+BYS28,How much likes school
+BYS29A,How often reviews work in math class
+BYS29B,How often listens to math teacher lecture
+BYS29C,How often copies math teacher^s notes from board
+BYS29D,How often uses books besides math textbooks
+BYS29E,How often does problem-solving in math class
+BYS29F,How often uses calculators in math class
+BYS29G,How often uses graphing calculators in math class
+BYS29H,How often uses computers in math class
+BYS29I,How often explains work to math class orally
+BYS29J,How often participates in student math discussions
+BYS30,Uses computers in math class
+BYS31A,How often uses computers to review math work
+BYS31B,How often uses computers to solve math problems
+BYS31C,How often uses computers for graphing in math class
+BYS31D,How often uses computers to practice math drills
+BYS31E,How often uses computers to analyze data in math class
+BYS31F,How often uses computers to apply learning in math class
+BYS31G,How often math teacher uses computer to instruct one-on-one
+BYS31H,How often math teacher uses computer to show new topics
+BYS32AA,Used computer in 9th grade fall English
+BYS32AB,Uses computer in 10th grade fall English
+BYS32BA,Used computer in 9th grade spring English
+BYS32BB,Uses computer in 10th grade spring English
+BYS32CA,Used computer in 9th grade fall science
+BYS32CB,Used computer in 10th grade fall science
+BYS32DA,Used computer in 9th grade spring science
+BYS32DB,Uses computer in 10th grade spring science
+BYS32EA,Used computer in 9th grade fall math
+BYS32EB,Used computer in 10th grade fall math
+BYS32FA,Used computer in 9th grade spring math
+BYS32FB,Uses computer in 10th grade spring math
+BYS32GA,Used computer in 9th grade fall social studies
+BYS32GB,Used computer in 10th grade fall social studies
+BYS32HA,Used computer in 9th grade spring social studies
+BYS32HB,Uses computer in 10th grade spring social studies
+BYS33A,Ever in Advanced Placement program
+BYS33B,Ever in International Baccalaureate program
+BYS33C,Ever in part-time program at regional vocational school
+BYS33D,Ever in a remedial English class
+BYS33E,Ever in a remedial math class
+BYS33F,Ever in bilingual/bicultural class
+BYS33G,Ever in English as Second Language program
+BYS33H,Ever in dropout prevention program
+BYS33I,Ever in special education program
+BYS33J,Ever in distance learning course
+BYS33K,Ever in career academy
+BYS33L,Ever in program to help prepare for college
+BYS34A,Hours/week spent on homework in school
+BYS34B,Hours/week spent on homework out of school
+BYS35A,Hours/week spent on math homework in school
+BYS35B,Hours/week spent on math homework out of school
+BYS36A,Hours/week spent on English homework in school
+BYS36B,Hours/week spent on English homework out of school
+BYS37,Importance of good grades to student
+BYS38A,How often goes to class without pencil/paper
+BYS38B,How often goes to class without books
+BYS38C,How often goes to class without homework done
+BYS39A,Played intramural baseball
+BYS39B,Played intramural softball
+BYS39C,Played intramural basketball
+BYS39D,Played intramural football
+BYS39E,Played intramural soccer
+BYS39F,Played other intramural team sport
+BYS39G,Played an individual intramural sport
+BYS39H,On intramural cheerleading/drill team
+BYS40AA,No interscholastic baseball
+BYS40AB,Did not participate in interscholastic baseball
+BYS40AC,Played junior varsity baseball
+BYS40AD,Played varsity baseball
+BYS40AE,Varsity baseball captain/co-captain
+BYS40BA,No interscholastic softball
+BYS40BB,Did not participate in interscholastic softball
+BYS40BC,Played junior varsity softball
+BYS40BD,Played varsity softball
+BYS40BE,Varsity softball captain/co-captain
+BYS40CA,No interscholastic basketball
+BYS40CB,Did not participate in interscholastic basketball
+BYS40CC,Played junior varsity basketball
+BYS40CD,Played varsity basketball
+BYS40CE,Varsity basketball captain/co-captain
+BYS40DA,No interscholastic football
+BYS40DB,Did not participate in interscholastic football
+BYS40DC,Played junior varsity football
+BYS40DD,Played varsity football
+BYS40DE,Varsity football captain/co-captain
+BYS40EA,No interscholastic soccer
+BYS40EB,Did not participate in interscholastic soccer
+BYS40EC,Played junior varsity soccer
+BYS40ED,Played varsity soccer
+BYS40EE,Varsity soccer captain/co-captain
+BYS40FA,No other interscholastic team sport
+BYS40FB,Did not participate in other interscholastic team sport
+BYS40FC,Played on other junior varsity team
+BYS40FD,Played on other varsity team
+BYS40FE,Varsity captain/co-captain for other team sport
+BYS40GA,No interscholastic individual sport
+BYS40GB,Did not participate in interscholastic individual sport
+BYS40GC,Played junior varsity individual sport
+BYS40GD,Played varsity individual sport
+BYS40GE,Varsity captain/co-captain for individual sport
+BYS40HA,No interscholastic cheerleading/drill team
+BYS40HB,Did not participate on interscholastic cheerleading/drill team
+BYS40HC,Participated on junior varsity cheerleading/drill team
+BYS40HD,Participated on varsity cheerleading/drill team
+BYS40HE,Varsity cheerleading/drill team captain/co-captain
+BYS41A,Participated in school band or chorus
+BYS41B,Participated in school play or musical
+BYS41C,Participated in student government
+BYS41D,Participated in academic honor society
+BYS41E,Participated in school yearbook or newspaper
+BYS41F,Participated in school service clubs
+BYS41G,Participated in school academic clubs
+BYS41H,Participated in school hobby clubs
+BYS41I,Participated in school vocational clubs
+BYS42,Hours/week spent on extracurricular activities
+BYS43,Hours/week spent reading outside of school
+BYS44A,How often visits with friends at local hangout
+BYS44B,How often works on hobbies
+BYS44C,How often volunteers or performs community service
+BYS44D,How often drives or rides around
+BYS44E,How often talks on phone with friends
+BYS44F,"How often takes music, art, language class"
+BYS44G,How often takes sports lessons
+BYS44H,How often plays non-school sports
+BYS45A,How often uses computer for fun
+BYS45B,How often uses computer for school work
+BYS45C,How often uses computer to learn on own
+BYS46A,Hours/day on computer for school work
+BYS46B,Hours/day on computer other than for school
+BYS47A,How often uses computer at home
+BYS47B,How often uses computer at school
+BYS47C,How often uses computer at public library
+BYS47D,How often uses computer at friend^s house
+BYS47E,How often uses computer at another place
+BYS48A,Hours/day spent watching TV/DVD on weekdays
+BYS48B,Hours/day spent watching TV/DVD on weekends
+BYS49A,Hours/day plays video/computer games on weekdays
+BYS49B,Hours/day plays video/computer games on weekends
+BYS50,School has library media/resource center
+BYS51A,Use of school library for assignments
+BYS51B,Use of school library for in-school projects
+BYS51C,Use of school library for homework
+BYS51D,Use of school library for research papers
+BYS51E,Use of school library for leisure reading
+BYS51F,Use of school library to read magazines/newspapers
+BYS51G,Use of school library to read books for fun
+BYS51H,Use of school library for interests outside of school
+BYS51I,Use of school library for Internet access
+BYS52,How useful are school library reference materials
+BYS53A,How helpful is library staff with finding research resources
+BYS53B,How helpful is library staff with using databases
+BYS53C,How helpful is library staff with using Internet
+BYS54A,Importance of being successful in line work
+BYS54B,Importance of marrying right person/having happy family
+BYS54C,Importance of having lots of money
+BYS54D,Importance of having strong friendships
+BYS54E,Importance of being able to find steady work
+BYS54F,Importance of helping others in community
+BYS54G,Importance of giving children better opportunities
+BYS54H,Importance of living close to parents/relatives
+BYS54I,Importance of getting away from this area
+BYS54J,Importance of working to correct inequalities
+BYS54K,Importance of having children
+BYS54L,Importance of having leisure time
+BYS54N,Importance of being expert in field of work
+BYS54O,Importance of getting good education
+BYS55A,Plans to take the PSAT or PACT
+BYS55B,Plans to take SAT or ACT
+BYS55C,Plans to take Advanced Placement test
+BYS55D,Plans to take the ASVAB
+BYS56,How far in school student thinks will get
+BYS57,Plans to continue education after high school
+BYS58,Type of school plans to attend
+BYS59A,Has gone to counselor for college entrance information
+BYS59B,Has gone to teacher for college entrance information
+BYS59C,Has gone to coach for college entrance information
+BYS59D,Has gone to parent for college entrance information
+BYS59E,Has gone to friend for college entrance information
+BYS59F,Has gone to sibling for college entrance information
+BYS59G,Has gone to other relative for college entrance information
+BYS59H,Has gone to college publications/websites for entrance information
+BYS59I,Has gone to college representatives for entrance information
+BYS59J,Has gone to college search guides for entrance information
+BYS59K,Did not go to any of these sources
+BYS60,Would like to play athletics in college
+BYS61,Hopes to receive athletic scholarship for college
+BYS62A,Does not like school
+BYS62B,Grades are not good enough
+BYS62C,Will not need more school for job
+BYS62D,Cannot afford school
+BYS62E,Would rather work and earn money
+BYS62F,Plans to be full-time homemaker
+BYS62G,Does not feel school is important
+BYS62H,Needs to support family
+BYS65A,How far in school mother wants 10th grader to go
+BYS65B,How far in school father wants 10th grader to go
+BYS66A,Mother^s desire for 10th grader after high school
+BYS66B,Father^s desire for 10th grader after high school
+BYS66C,Friend^s desire for 10th grader after high school
+BYS66D,Close relative^s desire for 10th grader after high school
+BYS66E,School counselor^s desire for 10th grader after high school
+BYS66F,Favorite teacher^s desire for 10th grader after high school
+BYS66G,Coach^s desire for 10th grader after high school
+BYS67,English is student^s native language
+BYS69A,How often 10th grader speaks native language with mother
+BYS69B,How often 10th grader speaks native language with father
+BYS69C,How often 10th grader speaks native language with siblings
+BYS69D,How often 10th grader speaks native language with friends
+BYS70A,How well 10th grader understands spoken English
+BYS70B,How well 10th grader speaks English
+BYS70C,How well 10th grader reads English
+BYS70D,How well 10th grader writes English
+BYS71A,Participated in cooperative-education
+BYS71B,Participated in internship
+BYS71C,Participated in job shadowing/work-site visits
+BYS71D,Participated in mentoring
+BYS71E,Participated in community service
+BYS71F,Participated in school-based enterprise
+BYS71G,Did not participate in these work-based learning experiences
+BYS72,Ever worked for pay not around house
+BYS73,Date last worked for pay
+BYS74,Date started current/most recent job
+BYS75,How many hours usually works a week
+BYS76,How many hours works on the weekend
+BYS77,Type of work does on current/most recent job
+BYS79,How got current/most recent job
+BYS80,How closely related job is to desired job after education
+BYS83A,Mother^s highest level of education
+BYS83B,Father^s highest level of education
+BYS84A,Family has a daily newspaper
+BYS84B,Family has regularly received magazine
+BYS84C,Family has a computer
+BYS84D,Family has access to the Internet
+BYS84E,Family has DVD player
+BYS84F,Family has an electric dishwasher
+BYS84G,Family has a clothes dryer
+BYS84H,Family has more than 50 books
+BYS84I,Has own room
+BYS84J,Family has fax machine
+BYS85A,How often parents checks homework
+BYS85B,How often parents help with homework
+BYS85C,Special privileges given for good grades
+BYS85D,Parents limit privileges due to poor grades
+BYS85E,Required to work around the house
+BYS85F,Parents limit TV watching or video games
+BYS85G,Parents limit time with friends
+BYS86A,How often discussed school courses with parents
+BYS86B,How often discussed school activities with parents
+BYS86C,How often discuss things studied in class with parents
+BYS86D,How often discussed grades with parents
+BYS86E,How often discussed transferring with parents
+BYS86F,How often discussed prep for ACT/SAT with parents
+BYS86G,How often discussed going to college with parents
+BYS86H,How often discussed current events with parents
+BYS86I,How often discussed troubling things with parents
+BYS87A,Gets totally absorbed in mathematics
+BYS87B,Thinks reading is fun
+BYS87C,Thinks math is fun
+BYS87D,Reads in spare time
+BYS87E,Gets totally absorbed in reading
+BYS87F,Mathematics is important
+BYS88A,Most people can learn to be good at math
+BYS88B,Have to be born with ability to be good at math
+BYS89A,Can do excellent job on math tests
+BYS89B,Can understand difficult math texts
+BYS89C,Can understand difficult English texts
+BYS89D,Studies to get a good grade
+BYS89E,Can learn something really hard
+BYS89F,Can understand difficult English class
+BYS89G,Remembers most important things when studies
+BYS89H,Studies to increase job opportunities
+BYS89I,Can do excellent job on English assignments
+BYS89J,Works as hard as possible when studies
+BYS89K,Can do excellent job on English tests
+BYS89L,Can understand difficult math class
+BYS89M,Can master skills in English class
+BYS89N,Can get no bad grades if decides to
+BYS89O,Keeps studying even if material is difficult
+BYS89P,Studies to ensure financial security
+BYS89Q,Can get no problems wrong if decides to
+BYS89R,Can do excellent job on math assignments
+BYS89S,Does best to learn what studies
+BYS89T,Can learn something well if wants to
+BYS89U,Can master math class skills
+BYS89V,Puts forth best effort when studying
+BYS90A,Important to friends to attend classes regularly
+BYS90B,Important to friends to study
+BYS90C,Important to friends to play sports
+BYS90D,Important to friends to get good grades
+BYS90E,Important to friends to be popular with students
+BYS90F,Important to friends to finish high school
+BYS90G,Important to friends to have steady boy/girlfriend
+BYS90H,Important to friends to continue education past high school
+BYS90J,Important to friends to do community work
+BYS90K,Important to friends to have job
+BYS90L,Important to friends to get together with friends
+BYS90M,Important to friends to go to parties
+BYS90Q,Important to friends to make money
+BYS91,Number of close friends who dropped out
+BYS92A,Girls should have same opportunities in sports
+BYS92B,Some sports should be just for boys
+BYS92C,Girls should have own sports teams
+BYS92D,Girls should be on same sports teams as boys
+BYS94,Has close friends who were friends in 8th grade
+BYS96,Observed students betting on sports
+BYS97A,Bets were placed with friends
+BYS97B,Bets were placed with family members
+BYS97C,Bets were placed with bookie
+BYS97D,Bets were placed with a website
+BYS97E,Bets were placed through other means
+BYSCENP,Oct 2001 total school enrollment-administrator quex-categorical
+BYSCH1,BRR school weight for replicate 1
+BYSCH2,BRR school weight for replicate 2
+BYSCH3,BRR school weight for replicate 3
+BYSCH4,BRR school weight for replicate 4
+BYSCH5,BRR school weight for replicate 5
+BYSCH6,BRR school weight for replicate 6
+BYSCH7,BRR school weight for replicate 7
+BYSCH8,BRR school weight for replicate 8
+BYSCH9,BRR school weight for replicate 9
+BYSCH10,BRR school weight for replicate 10
+BYSCH11,BRR school weight for replicate 11
+BYSCH12,BRR school weight for replicate 12
+BYSCH13,BRR school weight for replicate 13
+BYSCH14,BRR school weight for replicate 14
+BYSCH15,BRR school weight for replicate 15
+BYSCH16,BRR school weight for replicate 16
+BYSCH17,BRR school weight for replicate 17
+BYSCH18,BRR school weight for replicate 18
+BYSCH19,BRR school weight for replicate 19
+BYSCH20,BRR school weight for replicate 20
+BYSCH21,BRR school weight for replicate 21
+BYSCH22,BRR school weight for replicate 22
+BYSCH23,BRR school weight for replicate 23
+BYSCH24,BRR school weight for replicate 24
+BYSCH25,BRR school weight for replicate 25
+BYSCH26,BRR school weight for replicate 26
+BYSCH27,BRR school weight for replicate 27
+BYSCH28,BRR school weight for replicate 28
+BYSCH29,BRR school weight for replicate 29
+BYSCH30,BRR school weight for replicate 30
+BYSCH31,BRR school weight for replicate 31
+BYSCH32,BRR school weight for replicate 32
+BYSCH33,BRR school weight for replicate 33
+BYSCH34,BRR school weight for replicate 34
+BYSCH35,BRR school weight for replicate 35
+BYSCH36,BRR school weight for replicate 36
+BYSCH37,BRR school weight for replicate 37
+BYSCH38,BRR school weight for replicate 38
+BYSCH39,BRR school weight for replicate 39
+BYSCH40,BRR school weight for replicate 40
+BYSCH41,BRR school weight for replicate 41
+BYSCH42,BRR school weight for replicate 42
+BYSCH43,BRR school weight for replicate 43
+BYSCH44,BRR school weight for replicate 44
+BYSCH45,BRR school weight for replicate 45
+BYSCH46,BRR school weight for replicate 46
+BYSCH47,BRR school weight for replicate 47
+BYSCH48,BRR school weight for replicate 48
+BYSCH49,BRR school weight for replicate 49
+BYSCH50,BRR school weight for replicate 50
+BYSCH51,BRR school weight for replicate 51
+BYSCH52,BRR school weight for replicate 52
+BYSCH53,BRR school weight for replicate 53
+BYSCH54,BRR school weight for replicate 54
+BYSCH55,BRR school weight for replicate 55
+BYSCH56,BRR school weight for replicate 56
+BYSCH57,BRR school weight for replicate 57
+BYSCH58,BRR school weight for replicate 58
+BYSCH59,BRR school weight for replicate 59
+BYSCH60,BRR school weight for replicate 60
+BYSCH61,BRR school weight for replicate 61
+BYSCH62,BRR school weight for replicate 62
+BYSCH63,BRR school weight for replicate 63
+BYSCH64,BRR school weight for replicate 64
+BYSCH65,BRR school weight for replicate 65
+BYSCH66,BRR school weight for replicate 66
+BYSCH67,BRR school weight for replicate 67
+BYSCH68,BRR school weight for replicate 68
+BYSCH69,BRR school weight for replicate 69
+BYSCH70,BRR school weight for replicate 70
+BYSCH71,BRR school weight for replicate 71
+BYSCH72,BRR school weight for replicate 72
+BYSCH73,BRR school weight for replicate 73
+BYSCH74,BRR school weight for replicate 74
+BYSCH75,BRR school weight for replicate 75
+BYSCH76,BRR school weight for replicate 76
+BYSCH77,BRR school weight for replicate 77
+BYSCH78,BRR school weight for replicate 78
+BYSCH79,BRR school weight for replicate 79
+BYSCH80,BRR school weight for replicate 80
+BYSCH81,BRR school weight for replicate 81
+BYSCH82,BRR school weight for replicate 82
+BYSCH83,BRR school weight for replicate 83
+BYSCH84,BRR school weight for replicate 84
+BYSCH85,BRR school weight for replicate 85
+BYSCH86,BRR school weight for replicate 86
+BYSCH87,BRR school weight for replicate 87
+BYSCH88,BRR school weight for replicate 88
+BYSCH89,BRR school weight for replicate 89
+BYSCH90,BRR school weight for replicate 90
+BYSCH91,BRR school weight for replicate 91
+BYSCH92,BRR school weight for replicate 92
+BYSCH93,BRR school weight for replicate 93
+BYSCH94,BRR school weight for replicate 94
+BYSCH95,BRR school weight for replicate 95
+BYSCH96,BRR school weight for replicate 96
+BYSCH97,BRR school weight for replicate 97
+BYSCH98,BRR school weight for replicate 98
+BYSCH99,BRR school weight for replicate 99
+BYSCH100,BRR school weight for replicate 100
+BYSCH101,BRR school weight for replicate 101
+BYSCH102,BRR school weight for replicate 102
+BYSCH103,BRR school weight for replicate 103
+BYSCH104,BRR school weight for replicate 104
+BYSCH105,BRR school weight for replicate 105
+BYSCH106,BRR school weight for replicate 106
+BYSCH107,BRR school weight for replicate 107
+BYSCH108,BRR school weight for replicate 108
+BYSCH109,BRR school weight for replicate 109
+BYSCH110,BRR school weight for replicate 110
+BYSCH111,BRR school weight for replicate 111
+BYSCH112,BRR school weight for replicate 112
+BYSCH113,BRR school weight for replicate 113
+BYSCH114,BRR school weight for replicate 114
+BYSCH115,BRR school weight for replicate 115
+BYSCH116,BRR school weight for replicate 116
+BYSCH117,BRR school weight for replicate 117
+BYSCH118,BRR school weight for replicate 118
+BYSCH119,BRR school weight for replicate 119
+BYSCH120,BRR school weight for replicate 120
+BYSCH121,BRR school weight for replicate 121
+BYSCH122,BRR school weight for replicate 122
+BYSCH123,BRR school weight for replicate 123
+BYSCH124,BRR school weight for replicate 124
+BYSCH125,BRR school weight for replicate 125
+BYSCH126,BRR school weight for replicate 126
+BYSCH127,BRR school weight for replicate 127
+BYSCH128,BRR school weight for replicate 128
+BYSCH129,BRR school weight for replicate 129
+BYSCH130,BRR school weight for replicate 130
+BYSCH131,BRR school weight for replicate 131
+BYSCH132,BRR school weight for replicate 132
+BYSCH133,BRR school weight for replicate 133
+BYSCH134,BRR school weight for replicate 134
+BYSCH135,BRR school weight for replicate 135
+BYSCH136,BRR school weight for replicate 136
+BYSCH137,BRR school weight for replicate 137
+BYSCH138,BRR school weight for replicate 138
+BYSCH139,BRR school weight for replicate 139
+BYSCH140,BRR school weight for replicate 140
+BYSCH141,BRR school weight for replicate 141
+BYSCH142,BRR school weight for replicate 142
+BYSCH143,BRR school weight for replicate 143
+BYSCH144,BRR school weight for replicate 144
+BYSCH145,BRR school weight for replicate 145
+BYSCH146,BRR school weight for replicate 146
+BYSCH147,BRR school weight for replicate 147
+BYSCH148,BRR school weight for replicate 148
+BYSCH149,BRR school weight for replicate 149
+BYSCH150,BRR school weight for replicate 150
+BYSCH151,BRR school weight for replicate 151
+BYSCH152,BRR school weight for replicate 152
+BYSCH153,BRR school weight for replicate 153
+BYSCH154,BRR school weight for replicate 154
+BYSCH155,BRR school weight for replicate 155
+BYSCH156,BRR school weight for replicate 156
+BYSCH157,BRR school weight for replicate 157
+BYSCH158,BRR school weight for replicate 158
+BYSCH159,BRR school weight for replicate 159
+BYSCH160,BRR school weight for replicate 160
+BYSCH161,BRR school weight for replicate 161
+BYSCH162,BRR school weight for replicate 162
+BYSCH163,BRR school weight for replicate 163
+BYSCH164,BRR school weight for replicate 164
+BYSCH165,BRR school weight for replicate 165
+BYSCH166,BRR school weight for replicate 166
+BYSCH167,BRR school weight for replicate 167
+BYSCH168,BRR school weight for replicate 168
+BYSCH169,BRR school weight for replicate 169
+BYSCH170,BRR school weight for replicate 170
+BYSCH171,BRR school weight for replicate 171
+BYSCH172,BRR school weight for replicate 172
+BYSCH173,BRR school weight for replicate 173
+BYSCH174,BRR school weight for replicate 174
+BYSCH175,BRR school weight for replicate 175
+BYSCH176,BRR school weight for replicate 176
+BYSCH177,BRR school weight for replicate 177
+BYSCH178,BRR school weight for replicate 178
+BYSCH179,BRR school weight for replicate 179
+BYSCH180,BRR school weight for replicate 180
+BYSCH181,BRR school weight for replicate 181
+BYSCH182,BRR school weight for replicate 182
+BYSCH183,BRR school weight for replicate 183
+BYSCH184,BRR school weight for replicate 184
+BYSCH185,BRR school weight for replicate 185
+BYSCH186,BRR school weight for replicate 186
+BYSCH187,BRR school weight for replicate 187
+BYSCH188,BRR school weight for replicate 188
+BYSCH189,BRR school weight for replicate 189
+BYSCH190,BRR school weight for replicate 190
+BYSCH191,BRR school weight for replicate 191
+BYSCH192,BRR school weight for replicate 192
+BYSCH193,BRR school weight for replicate 193
+BYSCH194,BRR school weight for replicate 194
+BYSCH195,BRR school weight for replicate 195
+BYSCH196,BRR school weight for replicate 196
+BYSCH197,BRR school weight for replicate 197
+BYSCH198,BRR school weight for replicate 198
+BYSCH199,BRR school weight for replicate 199
+BYSCH200,BRR school weight for replicate 200
+BYSCHPIM,Imputation flag - BYSCHPRG (BYS26)
+BYSCHPRG,High school program reported by student-composite
+BYSCHWT,School weight
+BYSCHWT,School weights
+BYSCMDFG,Base year library media center questionnaire flag
+BYSCSAF1,BY school safety index: principal^s perceptions
+BYSCSAF2,BY school safety index: student^s perceptions
+BYSCTRL,School control
+BYSES1,"Socio-economic status composite, v.1"
+BYSES1QU,Quartile coding of SES1 variable
+BYSES2,"Socio-economic status composite, v.2"
+BYSES2QU,Quartile coding of SES2 variable
+BYSEX,Sex-composite
+BYSEXIM,Imputation flag - BYSEX
+BYSF1RCE,1st friend^s race
+BYSF2RCE,2nd friend^s race
+BYSF3RCE,3rd friend^s race
+BYSIBHOM,BY number of in-home siblings
+BYSIBSTR,BY in-home sibling structure
+BYSOCCER,Interscholastic soccer participation
+BYSOFTBL,Interscholastic softball participation
+BYSOLOSP,Interscholastic individual sport participation
+BYSPANP,Grade span-administrator questionnaire
+BYSQSTAT,Base year student questionnaire status
+BYSTEXIM,Imputation flag - BYSTEXP (BYS56)
+BYSTEXP,How far in school student thinks will get-composite
+BYSTLANG,Whether English is student^s native language-composite
+BYSTLNG2,Sample member^s English fluency
+BYSTLNIM,Imputation flag - BYSTLANG (BYS67)
+BYSTPREP,Class preparation scale
+BYSTUWT,Student weight
+BYTE01,Taught student in fall 2001 (English)
+BYTE02,How well remembers student from fall semester (English)
+BYTE03,Taught student in spring 2002 (English)
+BYTE04,Student usually works hard for good grades (English)
+BYTE05,Student relates well to others (English)
+BYTE06,Student is exceptionally passive (English)
+BYTE07,Student talks with teacher outside of class (English)
+BYTE08A,Spoke to parents about poor performance (English)
+BYTE08B,Spoke to parents about disruptive behavior (English)
+BYTE08C,Spoke to parents about not doing homework (English)
+BYTE08D,Spoke to parents about absenteeism (English)
+BYTE08E,Spoke to parents about accomplishments (English)
+BYTE09,Parents^ level of involvement in academic performance (English)
+BYTE10,Difficulty of class for student (English)
+BYTE11,Student has disability that affects school work (English)
+BYTE12,Student has fallen behind in school work (English)
+BYTE12A,Student behind due to health problem (English)
+BYTE12B,Student behind due to LEP (English)
+BYTE12C,Student behind due to disciplinary action (English)
+BYTE12D,Student behind due to lack of effort (English)
+BYTE12E,Student behind due to other reason (English)
+BYTE13,How often student completes homework (English)
+BYTE14,How often student is absent (English)
+BYTE15,How often student is tardy (English)
+BYTE16,How often student is attentive in class (English)
+BYTE17,How often student is disruptive in class (English)
+BYTE18A,Spoke to counselor about poor performance (English)
+BYTE18B,Spoke to counselor about disruptive behavior (English)
+BYTE19,Recommended student for AP/honors classes/academic honors (English)
+BYTE20,How far teacher expects student to get in school (English)
+BYTE21A,How well student organizes ideas (English)
+BYTE21B,How well student uses grammar (English)
+BYTE21C,How well student uses appropriate detail (English)
+BYTE21D,How well student expresses critical/creative thought (English)
+BYTE22,Teacher^s sex (English)
+BYTE23,Teacher is Hispanic (English)
+BYTE25,Teacher^s year of birth (English)
+BYTE26A,Years teaching at elementary level/K-6 (English)
+BYTE26B,Years teaching at secondary level/7-12 (English)
+BYTE26C,Total years teaching/K-12 (English)
+BYTE27,Total years teaching in this school (English)
+BYTE28,Employment status in this school/system (English)
+BYTE29,Type of certification held in English (English)
+BYTE30A,No academic degree held (English)
+BYTE30B,Associate degree held (English)
+BYTE30C,Bachelor^s degree held (English)
+BYTE30D,Education specialist degree held (English)
+BYTE30E,Master^s degree held (English)
+BYTE30F,Doctorate degree held (English)
+BYTE30G,First professional degree held (English)
+BYTE31A,Bachelor^s degree major (English)
+BYTE31B,Bachelor^s degree minor/2nd major (English)
+BYTE32A,Highest graduate degree major (English)
+BYTE32B,Highest graduate degree minor/2nd major (English)
+BYTE33A,# undergraduate English courses taken (English)
+BYTE33B,# graduate English courses taken (English)
+BYTE34,If starting over whether would be a teacher again (English)
+BYTE35A,How often use computer to create materials (English)
+BYTE35B,How often use WWW sites to plan lessons (English)
+BYTE35C,How often access model lesson plans from Internet (English)
+BYTE35D,How often research teaching on Internet (English)
+BYTE35E,How often take professional development courses on Internet (English)
+BYTE35F,How often use Internet for colleague discussions (English)
+BYTE35G,How often download instructional software from Internet (English)
+BYTE35H,How often use computer to give class presentations (English)
+BYTE35I,How often use computer for administrative records (English)
+BYTE35J,How often use computer to prepare multimedia presentations (English)
+BYTE35K,How often use computer to communicate w/colleagues (English)
+BYTE35L,How often use computer to communicate w/parents (English)
+BYTE35M,How often use computer to communicate w/students (English)
+BYTE35N,How often use computer to post homework/information (English)
+BYTE36,Hours of training on teaching special education students (English)
+BYTE37,Has had eight hours training on teaching LEP students (English)
+BYTE38A,Received training in basic computer skills (English)
+BYTE38B,Received training in software applications (English)
+BYTE38C,Received training in use of Internet (English)
+BYTE38D,Received training in use of other technology (English)
+BYTE38E,Received training in integrating technology in curriculum (English)
+BYTE38F,Received follow-up or advanced training (English)
+BYTE39,Days missed teaching during 1st semester (English)
+BYTE40,Holds additional full-time job (English)
+BYTE41,Additional full-time job related to education (English)
+BYTE42,Holds additional part-time job (English)
+BYTE43,Additional part-time job related to education (English)
+BYTE44A,Importance of home background to student success (English)
+BYTE44B,Importance of intellectual ability to student success (English)
+BYTE44C,Importance of student^s enthusiasm to student success (English)
+BYTE44D,Importance of teacher^s attention to student success (English)
+BYTE44E,Importance of teaching methods to student success (English)
+BYTE44F,Importance of teacher^s enthusiasm to student success (English)
+BYTE47,Date teacher questionnaire completed (English)
+BYTEAMSP,Other interscholastic team participation
+BYTEAQUA,Student^s perception of teacher-student relationships in the school
+BYTEHDEG,Highest degree earned by the English teacher
+BYTEQFLG,At least one teacher reported on 10th grader
+BYTESTIM,Imputation flag - composite scores
+BYTM01,Taught student in fall 2001 (math)
+BYTM02,How well remembers student from fall semester (math)
+BYTM03,Taught student in spring 2002 (math)
+BYTM04,Student usually works hard for good grades (math)
+BYTM05,Student relates well to others (math)
+BYTM06,Student is exceptionally passive (math)
+BYTM07,Student talks with teacher outside of class (math)
+BYTM08A,Spoke to parents about poor performance (math)
+BYTM08B,Spoke to parents about disruptive behavior (math)
+BYTM08C,Spoke to parents about not doing homework (math)
+BYTM08D,Spoke to parents about absenteeism (math)
+BYTM08E,Spoke to parents about accomplishments (math)
+BYTM09,Parents^ level of involvement (math)
+BYTM10,Difficulty of class for student (math)
+BYTM11,Student has disability that affects school work (math)
+BYTM12,Student has fallen behind in school work (math)
+BYTM12A,Student behind due to health problem (math)
+BYTM12B,Student behind due to LEP (math)
+BYTM12C,Student behind due to disciplinary action (math)
+BYTM12D,Student behind due to lack of effort (math)
+BYTM12E,Student behind due to other reason (math)
+BYTM13,How often student completes homework (math)
+BYTM14,How often student is absent (math)
+BYTM15,How often student is tardy (math)
+BYTM16,How often student is attentive in class (math)
+BYTM17,How often student is disruptive in class (math)
+BYTM18A,Spoke to counselor about poor performance (math)
+BYTM18B,Spoke to counselor about disruptive behavior (math)
+BYTM19,Recommended student for AP/honors classes/academic honors (math)
+BYTM20,How far teacher expects student to get in school (math)
+BYTM22,Teacher^s sex (math)
+BYTM23,Teacher is Hispanic (math)
+BYTM25,Teacher^s year of birth (math)
+BYTM26A,Years teaching at elementary level/K-6 (math)
+BYTM26B,Years teaching at secondary level/7-12 (math)
+BYTM26C,Total years teaching/K-12 (math)
+BYTM27,Total years teaching in this school (math)
+BYTM28,Employment status in this school/system (math)
+BYTM29,Type of certification held in math (math)
+BYTM30A,No academic degree held (math)
+BYTM30B,Associate degree held (math)
+BYTM30C,Bachelor^s degree held (math)
+BYTM30D,Education specialist degree held (math)
+BYTM30E,Master^s degree held (math)
+BYTM30F,Doctorate degree held (math)
+BYTM30G,First professional degree held (math)
+BYTM31A,Bachelor^s degree major (math)
+BYTM31B,Bachelor^s degree minor/2nd major (math)
+BYTM32A,Highest graduate degree major (math)
+BYTM32B,Highest graduate degree minor/2nd major (math)
+BYTM33C,# undergraduate math courses taken (math)
+BYTM33D,# graduate math courses taken (math)
+BYTM34,If starting over whether would be a teacher again (math)
+BYTM35A,How often use computer to create materials (math)
+BYTM35B,How often use Web sites to plan lessons (math)
+BYTM35C,How often use model lesson plans from Internet (math)
+BYTM35D,How often use Internet for research on teaching (math)
+BYTM35E,How often take professional development courses via Internet (math)
+BYTM35F,How often use Internet for colleague discussions (math)
+BYTM35G,How often download instructional software from Internet (math)
+BYTM35H,How often use computer to give class presentations (math)
+BYTM35I,How often use computer for administrative records (math)
+BYTM35J,How often use computer to prepare multimedia presentations (math)
+BYTM35K,How often use computer to communicate w/colleagues (math)
+BYTM35L,How often use computer to communicate w/parents (math)
+BYTM35M,How often use computer to communicate w/students (math)
+BYTM35N,How often use computer to post homework/information (math)
+BYTM36,Hours of training on teaching special education students (math)
+BYTM37,Had eight hours training on teaching LEP students (math)
+BYTM38A,Received training in basic computer skills (math)
+BYTM38B,Received training in software applications (math)
+BYTM38C,Received training in use of Internet (math)
+BYTM38D,Received training in use of other technology (math)
+BYTM38E,Received training in integrating technology in curriculum (math)
+BYTM38F,Received follow-up or advanced training (math)
+BYTM39,Days missed teaching during 1st semester (math)
+BYTM40,Holds additional full-time job (math)
+BYTM41,Additional full-time job related to education (math)
+BYTM42,Holds additional part-time job (math)
+BYTM43,Additional part-time job related to education (math)
+BYTM44A,Importance of home background to student success (math)
+BYTM44B,Importance of intellectual ability to student success (math)
+BYTM44C,Importance of student^s enthusiasm to student success (math)
+BYTM44D,Importance of teacher^s attention to student success (math)
+BYTM44E,Importance of teaching methods to student success (math)
+BYTM44F,Importance of teacher^s enthusiasm to student success (math)
+BYTM45A,People can learn to be good at math (math)
+BYTM45B,People must be born with math ability (math)
+BYTM47,Date teacher questionnaire completed (math)
+BYTMHDEG,Highest degree earned by math teacher
+BYTSTREL,BY teacher-student relations
+BYTVVIGM,BY hrs/day watching TV/videos/playing video games (weekdays)
+BYTX1MPP,Mathematics proficiency probability at level 1
+BYTX1RPP,Reading proficiency probability at level 1
+BYTX2MPP,Mathematics proficiency probability at level 2
+BYTX2RPP,Reading proficiency probability at level 2
+BYTX3MPP,Mathematics proficiency probability at level 3
+BYTX3RPP,Reading proficiency probability at level 3
+BYTX4MPP,Mathematics proficiency probability at level 4
+BYTX5MPP,Mathematics proficiency probability at level 5
+BYTXACC,Base year test accommodations
+BYTXCQU,Standardized composite test quartile (1=low)
+BYTXCSTD,Standardized test composite score-math/reading
+BYTXMIRR,Math IRT estimated number right
+BYTXMQU,Mathematics quartile (1=low)
+BYTXMSTD,Math test standardized score
+BYTXPAFG,Base year parent questionnaire and test in at least one subject
+BYTXRIRR,Reading IRT estimated number right
+BYTXRQU,Reading quartile (1=low)
+BYTXRSTD,Reading test standardized score
+BYTXSTAT,Base year test score status
+BYURBAN,School urbanicity
+BYWORKSY,Student held job for pay during 2001-2002 school year
+BYWRKHRS,BY hours worked per week during 01-02 school year
+BYWRTNGA,Student writing ability (teacher-reported)
+BYXTRACU,Number of school-sponsored activities participated in 01-02
+F1A02,# of days in school year for 12th graders
+F1A03,Type of academic calendar
+F1A04AA,Academic courses are block scheduled
+F1A04AB,# of minutes in block for academic courses
+F1A04BA,Vocational/technical courses are block scheduled
+F1A04BB,# of minutes in block for vocational/technical courses
+F1A04CA,Other courses are block scheduled
+F1A04CB,# of minutes in block for other courses
+F1A05A,Students in area or district attend the school
+F1A05B,Students in area or district attend the school/transfers allowed
+F1A05C,Students assigned to school to achieve racial/ethnic composition
+F1A05D,Students admitted to school based on test/audition/other criterion
+F1A05E,Students admitted to school based on lottery/random selection
+F1A05F,Students admitted on first-come first-serve basis
+F1A06A,Influence of teachers on selecting 12th grader^s courses
+F1A06B,Influence of department head on selecting 12th grader^s courses
+F1A06C,Influence of counselors on selecting 12th grader^s courses
+F1A06D,Influence of coaches on selecting 12th grader^s courses
+F1A06E,Influence of parents on selecting 12th grader^s courses
+F1A06F,Influence of student^s preferences on selecting 12th grader^s courses
+F1A06G,Influence of student^s grades on selecting 12th grader^s courses
+F1A06H,Influence of student^s test scores on selecting 12th grader^s courses
+F1A06I,Influence of student attendance on selecting 12th grader^s courses
+F1A06J,Influence of special education on selecting 12th grader^s courses
+F1A06K,Influence of potential for dropout on selecting 12th grader^s courses
+F1A07A,Years of English coursework required to graduate
+F1A07B,Years of mathematics coursework required to graduate
+F1A07C,Years of science coursework required to graduate
+F1A07D,Years of history/social studies coursework required to graduate
+F1A07E,Years of computer coursework required to graduate
+F1A07F,Years of foreign language coursework required to graduate
+F1A07G,Years of fine arts coursework required to graduate
+F1A07H,Years of physical education/health coursework required to graduate
+F1A08A,School confers regular/honors diplomas
+F1A08B,School confers International Baccalaureate diplomas
+F1A08C,School confers diplomas with special education adjustments
+F1A08D,School confers diplomas with vocational/technical skills certificate
+F1A08E,School confers certificates of attendance
+F1A08F,School confers GED/other equivalency
+F1A09,Minimum GPA required to participate in school activities
+F1A10,Availability of a vocational/technical program
+F1A11A,Student request used to decide enrollment in vocational program
+F1A11B,Parent request used to decide enrollment in vocational program
+F1A11C,Counselor referral used to decide enrollment in vocational program
+F1A11D,Teacher referral used to decide enrollment in vocational program
+F1A11E,Academic performance used to decide enrollment in vocational program
+F1A11F,Attendance record used to decide enrollment in vocational program
+F1A11G,Special education need used to decide enrollment in vocational program
+F1A11H,Potential for dropout used to decide enrollment in vocational program
+F1A11I,Lottery/random choice used to decide enrollment in vocational program
+F1A12A,# of occupational courses defines vocational/technical completers
+F1A12B,Specific academic coursework defines vocational/technical completers
+F1A12C,District/state assessment defines vocational/technical completers
+F1A12D,Industry-recognized credential defines vocational/technical completers
+F1A13A,Vocational interest/ability assessments are available
+F1A13B,Job placement services are available
+F1A13C,Career days/job fairs are available
+F1A13D,Career/employment readiness workshops are available
+F1A13E,School-arranged interviews with employers are available
+F1A13F,Selection of career major/pathways are available
+F1A14,Class of 2004 must pass a test for high school diploma
+F1A15A,Math is on grade 12 competency test
+F1A15B,Science is on grade 12 competency test
+F1A15C,Reading is on grade 12 competency test
+F1A15D,Composition/writing is on grade 12 competency test
+F1A15E,History/civics/social studies is on grade 12 competency test
+F1A15F,Computer skills are on grade 12 competency test
+F1A16,% fail competency test on first attempt
+F1A17A,Retake competency test if failed
+F1A17B,Take remedial class if fail competency test
+F1A17C,Complete competency test preparation class if fail
+F1A17D,Tutoring/individualized academic program if fail competency test
+F1A17E,Summer school if fail competency test
+F1A17F,Referred to alternative/continuing ed school if fail competency test
+F1A18A,% 12th graders in general high school program
+F1A18B,% 12th graders in college prep/specialized academic program
+F1A18C,% 12th graders in voc/tech/business program
+F1A19A,% of 2003 graduates went to 4-year colleges
+F1A19B,% of 2003 graduates went to 2-year colleges/vocational school
+F1A19C,% of 2003 graduates entered labor market or military
+F1A19D,% of 2003 graduates did something else
+F1A20A,% of 12th graders attend college application programs
+F1A20B,% of 12th graders attend programs on financial aid
+F1A20C,% of 12th graders attend school SAT/ACT courses
+F1A20D,% of 12th graders attend college fairs
+F1A20E,% of 12th graders attend meetings with college representative
+F1A20F,% of 12th graders participate in Talent Search
+F1A20G,% of 12th graders participate in Upward Bound
+F1A20H,% of 12th graders in other program for minority/disadvantaged
+F1A21A,Vocational counseling/services/programs offered
+F1A21B,Home visits by teachers offered
+F1A21C,Peer tutoring offered
+F1A21D,School-sponsored community service offered
+F1A21E,Individual/family psychological counseling offered
+F1A21F,Programs for pregnant girls/teenage mothers offered
+F1A22B,% of student body is LEP or non-English proficient
+F1A22C,% of student body receives special education services
+F1A22D,% of student body in alternative program
+F1A22E,% of student body in dropout prevention program
+F1A22F,% of student body in Advanced Placement courses
+F1A22G,% of student body in International Baccalaureate program
+F1A23,School has dropout prevention program
+F1A24A,Dropout prevention is recommended on basis of absentee record
+F1A24B,Dropout prevention is recommended on basis of academic performance
+F1A24C,Dropout prevention is recommended on basis of teacher referral
+F1A24D,Dropout prevention is recommended on basis of counselor referral
+F1A24E,Dropout prevention is recommended on basis of parental request
+F1A24F,Dropout prevention is recommended on basis of student request
+F1A24G,Dropout prevention is recommended on basis of disciplinary problems
+F1A25A,Dropout prevention offers special instructional programs
+F1A25B,Dropout prevention offers focus on vocational/technical education
+F1A25C,Dropout prevention offers individual/group counseling
+F1A25D,Dropout prevention offers health care
+F1A25E,Dropout prevention offers incentives for better attendance/performance
+F1A25F,Dropout prevention offers close monitoring of attendance/performance
+F1A25G,Dropout prevention offers childcare/nurseries for student^s children
+F1A25H,Dropout prevention offers cultural interaction
+F1A25I,Dropout prevention offers anger management
+F1A27,# of part-time teachers
+F1A28,# of full-time teachers left at end of 2002-2003 school year
+F1A29AP,# of full-time teachers have less than Bachelor^s degree (public)
+F1A29BP,# of full-time teachers whose highest degree is Bachelor^s (Public)
+F1A29BP,# of full-time teachers with highest degree of Bachelor^s (Public)
+F1A29CP,# of full-time teachers whose highest degree is Master^s
+F1A29DP,# of full-time teachers whose highest degree is EdD or PhD
+F1A29DP,# of full-time teachers with highest degree of EdD or PhD
+F1A29EP,# of full-time teachers whose highest degree is unknown
+F1A30,# of full-time library media resource center staff members
+F1A31,# of part-time library media resource center staff members
+F1A32A,% of full-time teachers are Hispanic
+F1A32B,% of full-time teachers for whom Hispanic ethnicity is unknown
+F1A33A,% of full-time teachers are White
+F1A33B,% of full-time teachers are Black/African American
+F1A33C,% of full-time teachers are Asian
+F1A33D,% of full-time teachers are Native Hawaiian/Pacific Islander
+F1A33E,% of full-time teachers are American Indian/Alaskan Native
+F1A33F,% of full-time teachers for whom race is unknown
+F1A34A,% of full-time teachers have state/advanced professional certificate
+F1A34B,% of full-time teachers have probationary certificate
+F1A34C,% of full-time teachers have provisional certificate
+F1A34D,% of full-time teachers have temporary/emergency certificate
+F1A35,% of full-time library staff is state-certified
+F1A37A,% of poor teachers
+F1A37B,% of fair teachers
+F1A37C,% of good teachers
+F1A37D,% of excellent teachers
+F1A38A,Student morale is high
+F1A38B,Teachers press students to achieve
+F1A38C,Teacher morale is high
+F1A38D,Learning is high priority for students
+F1A38E,Students expected to do homework
+F1A38F,Discipline is emphasized
+F1A38G,Classroom activities are highly structured
+F1A38H,Many teachers are negative about students
+F1A38I,Many teachers find it difficult to motivate students
+F1A38J,School emphasizes sports
+F1A38K,Students are encouraged to compete for grades
+F1A38L,Counselors/teachers encourage students to enroll in academic classes
+F1A38M,There is often conflict between teachers and administrators
+F1A38N,Teachers usually respond to students^ individual needs
+F1A39A,% of students typically tardy
+F1A39B,% of students typically absent without excuse
+F1A39C,% of students typically cut or skip classes
+F1A40A,How often physical conflicts a problem at school
+F1A40B,How often robbery/theft a problem at school
+F1A40C,How often vandalism a problem at school
+F1A40D,How often use of alcohol a problem at school
+F1A40E,How often use of illegal drugs a problem at school
+F1A40F,How often students on drugs/alcohol at school a problem
+F1A40G,How often sale of drugs near school a problem
+F1A40H,How often possession of weapons a problem at school
+F1A40I,How often physical abuse of teachers a problem at school
+F1A40J,How often racial tension among students a problem at school
+F1A40K,How often student bullying a problem at school
+F1A40L,How often verbal abuse of teachers a problem at school
+F1A40M,How often disorder in classrooms a problem at school
+F1A40N,How often student disrespect for teachers a problem at school
+F1A40O,How often gang activity a problem at school
+F1A40P,How often cult/extremist group activities a problem at school
+F1A42,Month and year completed interview
+F1ADMSTA,F1 administrator questionnaire status
+F1BYEDEX,BY-F1 Bachelor^s degree expectation change
+F1BYMTGN,IRT math estimated number right gain: BY to F1
+F1BYTFLG,F1 Base Year test available
+F1COLINF,F1 sources for college information
+F1COMPHR,F1 frequency of computer use for all purposes (hours/day)
+F1CTLPTN,BY-F1 high school attendance pattern: by school control
+F1D19,Month and year last attended school (DO)
+F1D20,Grade when last attended school (DO)
+F1D21,Whether passed last grade attended
+F1D22,Left school for more than a month before last left
+F1D23,Month and year first left school for more than a month
+F1D24,Month and year returned to school
+F1D25,Attended school during 2002-2003 school year
+F1D26,Number of school days missed during 2002-2003 school year
+F1D27A,Years of General Science coursework (DO)
+F1D27B,Years of General Physical Science coursework (DO)
+F1D27C,Years of Biology coursework (DO)
+F1D27D,Years of Botany/Zoology coursework (DO)
+F1D27E,Years of Earth Science coursework (DO)
+F1D27F,Years of Chemistry coursework (DO)
+F1D27G,Years of Principles of Technology coursework (DO)
+F1D27H,Years of Physics coursework (DO)
+F1D27I,Years of other science coursework (DO)
+F1D28A,Years of General Math coursework (DO)
+F1D28B,Years of Pre-Algebra coursework (DO)
+F1D28C,Years of Algebra I coursework (DO)
+F1D28D,Years of Geometry coursework (DO)
+F1D28E,Years of Algebra II coursework (DO)
+F1D28F,Years of Trigonometry coursework (DO)
+F1D28G,Years of Pre-Calculus coursework (DO)
+F1D28H,Years of Calculus coursework (DO)
+F1D28I,Years of Consumer/Business Math coursework (DO)
+F1D28J,Years of other math coursework (DO)
+F1D29A,Left school because got a job (DO)
+F1D29B,Left school because did not like school (DO)
+F1D29C,Left school because could not get along with teachers (DO)
+F1D29D,Left school because could not get along with other students (DO)
+F1D29E,Left school because was pregnant (DO)
+F1D29F,Left school because became father/mother of a baby (DO)
+F1D29G,Left school because had to support family (DO)
+F1D29H,Left school because was suspended (DO)
+F1D29I,Left school because did not feel safe (DO)
+F1D29J,Left school to care for a member of family (DO)
+F1D29K,Left school because was expelled (DO)
+F1D29L,Left school because did not feel belonged there (DO)
+F1D29M,Left school because could not keep up with schoolwork (DO)
+F1D29N,Left school because was getting poor grades/failing school (DO)
+F1D29O,Left school because got married/planned to get married (DO)
+F1D29P,Left school because changed schools and did not like new one (DO)
+F1D29Q,Left school because could not work at same time (DO)
+F1D29R,Left school because thought would fail competency test (DO)
+F1D29S,Left school because thought couldn^t complete course requirements (DO)
+F1D29T,Left school because thought it would be easier to get GED (DO)
+F1D29U,Left school because missed too many school days (DO)
+F1D30,Feels that leaving school was a good decision (DO)
+F1D31A,Someone from school offered to send you to another school
+F1D31B,Someone from school offered to put you in special program
+F1D31C,Someone from school offered special tutoring
+F1D31D,Someone from school offered to help make up missed work
+F1D31E,Someone from school offered to help with personal problems
+F1D31F,Someone from school told you that you could return if kept grades up
+F1D31G,Someone from school told you you could return if attendance improved
+F1D31H,Someone from school told you you could return if followed school rules
+F1D31I,Someone from school tried to talk you into staying
+F1D31J,Someone from school told you that you couldn^t come back
+F1D31K,Someone from school expelled or suspended you
+F1D31L,Someone from school called or visited your home
+F1D32A,Parents/guardians offered to send you to another school
+F1D32B,Parents/guardians offered to put you in special program
+F1D32C,Parents/guardians offered special tutoring
+F1D32D,Parents/guardians offered to help make up missed work
+F1D32E,Parents/guardians offered to help with personal problems
+F1D32F,Parents/guardians tried to talk you into staying
+F1D32G,Parents/guardians told you it was okay to leave
+F1D32H,Parents/guardians told you they were upset
+F1D32I,Parents/guardians punished you for leaving school
+F1D32J,Parents/guardians told you it was your decision
+F1D32K,Parents/guardians called principle or teacher
+F1D32L,Parents/guardians called school counselor
+F1D32M,Parents/guardians offered to arrange for outside counseling
+F1D33A,Looked into alternative school in past 2 years
+F1D33B,Saw counselor/social worker in past 2 years
+F1D33C,Went to youth center/outreach program in past 2 years
+F1D33D,Went to family counseling in past 2 years
+F1D33E,Did work for religious group in past 2 years
+F1D33F,In drug rehabilitation program in past 2 years
+F1D33G,In alcohol rehabilitation program in past 2 years
+F1D33H,Failed competency test required for graduation in past 2 years
+F1D33I,Held back a grade in past 2 years
+F1D33J,Failed a course in past 2 years
+F1D34,Participated in an alternative program
+F1D35,Month and year entered most recent alternative program
+F1D36,Still enrolled in alternative program
+F1D37,Month and year left/completed most recent alternative program
+F1D38A,Parents referred you to this alternative program
+F1D38B,Siblings referred you to this alternative program
+F1D38C,Teacher referred you to this alternative program
+F1D38D,School principal referred you to this alternative program
+F1D38E,School counselor referred you to this alternative program
+F1D38F,Friend referred you to this alternative program
+F1D38G,Relative referred you to this alternative program
+F1D38I,Social worker/clergy referred you to this alternative program
+F1D38J,Adult friend/acquaintance referred you to this alternative program
+F1D38K,Respondent referred self to this alternative program
+F1D39A,Received special instructional programs from this program
+F1D39B,Received vocational/technical/trade skills training from this program
+F1D39C,Received tutoring by teachers from this program
+F1D39D,Received tutoring by other students from this program
+F1D39E,Received rewards for attendance/class performance from this program
+F1D39F,Received individual/group counseling from this program
+F1D39G,Received career counseling from this program
+F1D39H,Received job placement assistance from this program
+F1D39I,Received health care or referrals from this program
+F1D39J,Received childcare from this program
+F1D40,Number of alternative programs participated in
+F1D41,Plan to get GED or high school diploma
+F1D43A,Completed GED to improve/advance/keep up to date on current job (DO)
+F1D43B,Completed GED to train for new job/career (DO)
+F1D43C,Completed GED to improve basic reading writing or math skills (DO)
+F1D43D,Completed GED to meet requirements for additional study (DO)
+F1D43E,Completed GED because required or encouraged by employer (DO)
+F1D43F,Completed GED because of personal/family/social reasons (DO)
+F1D45,Month and year when received GED/equivalency (DO)
+F1D46,Currently taking class to prepare for GED examination
+F1D47A,Plan to go back to school to get high school diploma
+F1D47B,Plan to enroll in class to prepare for GED or equivalent
+F1D48,Month and year expects to receive high school diploma/GED
+F1D49A,Use of public library for leisure reading (DO)
+F1D49B,Use of public library to read magazines/newspaper (DO)
+F1D49C,Use of public library to read books for fun (DO)
+F1D49D,Use of public library for personal interests (DO)
+F1D49E,Use of public library for Internet access (DO)
+F1D50,Hours/week spent reading (DO)
+F1D51A,Hours/day spent watching TV/DVD on weekdays (DO)
+F1D51B,Hours/day spent watching TV/DVD on weekends (DO)
+F1D52A,Hours/day plays video/computer games on weekdays (DO)
+F1D52B,Hours/day plays video/computer games on weekends (DO)
+F1D53,Hours/day uses computer (DO)
+F1D54A,How often uses computer at home (DO)
+F1D54B,How often uses computer at public library (DO)
+F1D54C,How often uses computer at friend^s house (DO)
+F1D54D,How often uses computer at another place (DO)
+F1D55A,How often visits with friends at local hangout (DO)
+F1D55B,How often works on hobbies (DO)
+F1D55C,How often performs community services (DO)
+F1D55D,How often drives or rides around (DO)
+F1D55E,How often talks on phone with friends (DO)
+F1D55F,"How often takes music, art, language class (DO)"
+F1D55G,How often takes sports lessons (DO)
+F1D55H,How often plays sports (DO)
+F1D55I,How often talks with friends/relatives via the Internet (DO)
+F1D56A,Importance of being successful in line work (DO)
+F1D56B,Importance of marrying right person/having happy family (DO)
+F1D56C,Importance of having lots of money (DO)
+F1D56D,Importance of having strong friendships (DO)
+F1D56E,Importance of being able to find steady work (DO)
+F1D56F,Importance of helping others in community (DO)
+F1D56G,Importance of giving children better opportunities (DO)
+F1D56H,Importance of living close to parents/relatives (DO)
+F1D56I,Importance of getting away from this area (DO)
+F1D56J,Importance of working to correct inequalities (DO)
+F1D56K,Importance of having children (DO)
+F1D56L,Importance of having leisure time (DO)
+F1D56M,Importance of being expert in field of work (DO)
+F1D56N,Importance of getting good education (DO)
+F1D56O,Importance of getting good job (DO)
+F1D56P,Importance of being an active/informed citizen (DO)
+F1D56Q,Importance of supporting environmental causes (DO)
+F1D56R,Importance of being patriotic (DO)
+F1D57,How far in school respondent thinks will get (DO)
+F1D58A,How far in school mother wants respondent to go (DO)
+F1D58B,How far in school father wants respondent to go (DO)
+F1D59,Number of jobs held since left high school (DO)
+F1D61,Month and year started working at this job (DO)
+F1D62,Still have this job (DO)
+F1D63,Month and year left most recent job (DO)
+F1D64,Current/most recent pay per hour (DO)
+F1D65,Number of hours/week usually worked at this job (DO)
+F1D67,Education respondent thinks will be needed for job at age 30 (DO)
+F1D68,Performed unpaid volunteer/community service work (DO)
+F1D69A,How many friends dropped out of high school (DO)
+F1D69B,How many friends plan to have full-time job after high school (DO)
+F1D69C,How many friends plan to attend 2-year community college (DO)
+F1D69D,How many friends plan to attend 4-year college/university (DO)
+F1DOB_P,F1 Student^s year and month of birth
+F1DOQFLG,F1 sample member completion of dropout questionnaire
+F1DOSTAT,F1 dropout status
+F1E20,Month and year last attended school (EG)
+F1E21,Grade when last attended school (EG)
+F1E22A,Left school because got a job (EG)
+F1E22B,Left school because did not like school (EG)
+F1E22C,Left school because could not get along with teachers (EG)
+F1E22D,Left school because could not get along with other students (EG)
+F1E22E,Left school because was pregnant (EG)
+F1E22F,Left school because became father/mother of a baby (EG)
+F1E22G,Left school because had to support family (EG)
+F1E22H,Left school because was suspended (EG)
+F1E22I,Left school because did not feel safe (EG)
+F1E22J,Left school to care for a member of family (EG)
+F1E22K,Left school because was expelled (EG)
+F1E22L,Left school because did not feel belonged there (EG)
+F1E22M,Left school because could not keep up with schoolwork (EG)
+F1E22N,Left school because was getting poor grades/failing school (EG)
+F1E22O,Left school because got married/planned to get married (EG)
+F1E22P,Left school because changed schools and did not like new one (EG)
+F1E22Q,Left school because could not work at same time (EG)
+F1E22R,Left school because thought would fail competency test (EG)
+F1E22S,Left school because thought couldn^t complete course requirements (EG)
+F1E22T,Left school because thought it would be easier to get GED (EG)
+F1E22U,Left school because missed too many school days (EG)
+F1E23,Feels that leaving school was a good decision (EG)
+F1E24,Program in which GED was earned (EG)
+F1E25A,Completed GED to improve/advance/keep up to date on current job (EG)
+F1E25B,Completed GED to train for new job/career (EG)
+F1E25C,Completed GED to improve basic reading writing or math skills (EG)
+F1E25D,Completed GED to meet requirements for additional study (EG)
+F1E25E,Completed GED because required or encouraged by employer (EG)
+F1E25F,Completed GED because of personal/family/social reasons (EG)
+F1E27,Month and year graduated/received equivalency from high school (EG)
+F1E28A,Graduated early to gain early admission to college
+F1E28B,Graduated early to start a job
+F1E28C,Graduated early to join military
+F1E28D,Graduated early because bored with high school
+F1E28E,Graduated early to move to another city
+F1E28F,Graduated early to start a family
+F1E38D,How often uses a computer at an educational institution
+F1E43,Enrolled in an educational institution since high school
+F1E49,Number of jobs held since left high school (EG)
+F1E51,Month and year started working at this job (EG)
+F1E52,Still have this job (EG)
+F1E53,Month and year left most recent job (EG)
+F1E54,Current/most recent pay per hour (EG)
+F1E55,Number of hours/week usually worked at this job (EG)
+F1EGQFLG,F1 sample member completed early graduate questionnaire
+F1EVERDO,F1 Ever dropped out
+F1FAEDIM,Imputation Flag - F1FATHED
+F1FATHED,F1 Father^s highest level of education-composite
+F1FCMPIM,Imputation Flag - F1FCOMP
+F1FCOMP,F1 Family composition
+F1FTTP,F1 Number of full-time teachers categorical
+F1GRADE,F1 Last grade attended
+F1GRADIM,Imputation Flag - F1GRADE
+F1HIMATH,F1 Highest math course of a half year or more
+F1HOMLNG,F1 Student^s native language-composite
+F1HOQFLG,F1 Student completed homeschool questionnaire
+F1MATHSE,F1 mathematics self-efficacy
+F1MOEDIM,Imputation Flag - F1MOTHED
+F1MOTHED,F1 Mother^s highest level of education-composite
+F1N02,Sex
+F1N03,Student is Hispanic
+F1N07,English is student^s native language
+F1N09A,How well respondent understands spoken English
+F1N09B,How well respondent speaks English
+F1N09C,How well respondent reads English
+F1N09D,How well respondent writes English
+F1N11,Ever held back a grade
+F1N12A,Repeated kindergarten
+F1N12B,Repeated 1st grade
+F1N12C,Repeated 2nd grade
+F1N12D,Repeated 3rd grade
+F1N12E,Repeated 4th grade
+F1N12F,Repeated 5th grade
+F1N12G,Repeated 6th grade
+F1N12H,Repeated 7th grade
+F1N12I,Repeated 8th grade
+F1N12J,Repeated 9th grade
+F1N12K,Repeated 10th grade
+F1N12L,Repeated 11th grade
+F1N12M,Repeated 12th grade
+F1N13A,Mother lives in same household at least half the time
+F1N13B,Father lives in same household at least half the time
+F1N13C,Other female guardian lives in same household at least half the time
+F1N13D,Other male guardian lives in same household at least half the time
+F1N16A,Mother^s highest level of education
+F1N16B,Father^s highest level of education
+F1N17A,Family has a daily newspaper
+F1N17B,Family has regularly received magazine
+F1N17C,Family has a computer
+F1N17D,Family has access to the Internet
+F1N17E,Family has DVD player
+F1N17F,Family has an electric dishwasher
+F1N17G,Family has a clothes dryer
+F1N17H,Family has more than 50 books
+F1N17I,Has own room
+F1N17J,Family has fax machine
+F1NELS2M,F1 NELS-equated math estimated N-right
+F1OCC30,F1 Occupation at age 30-coded
+F1OCCFIM,Imputation Flag - F1OCCUF
+F1OCCHS,F1 Occupation right after high school-coded
+F1OCCMIM,Imputation Flag - F1OCCUM
+F1OCCUF,F1 Father^s/male guardian^s occupation-composite
+F1OCCUM,F1 Mother^s/female guardian^s occupation-composite
+F1PARED,F1 Parent^s highest level of education
+F1PNLFLG,BY to F1 panel flag
+F1PNLWT,"Panel Weight, BY and F1 (2002 and 2004)"
+F1PSEPLN,F1 post-secondary plans right after high school
+F1QMODE,F1 mode of quex administration
+F1QSTAT,F1 Student questionnaire status
+F1QWT,Questionnaire weight for F1
+F1QXDATP,Date completed interview
+F1RACE,F1 Student^s race/ethnicity-composite
+F1RACEIM,Imputation Flag - F1RACE
+F1RGPP2,GPA for all courses taken in the 9th - 12th grades - categorical
+F1RHTUNP,Total Carnegie units - categorized
+F1RMAT_P,Units in mathematics (SST) - categorical
+F1RTRCC,Transcript indicated curriculum concentration
+F1RTRFLG,Transcript coverage flag
+F1S14,Grade level
+F1S15,Diploma or certificate most likely to receive
+F1S16A,Years of General Science coursework
+F1S16B,Years of General Physical Science coursework
+F1S16C,Years of Biology coursework
+F1S16D,Years of Botany/Zoology coursework
+F1S16E,Years of Earth Science coursework
+F1S16F,Years of Chemistry coursework
+F1S16G,Years of Principles of Technology coursework
+F1S16H,Years of Physics coursework
+F1S16I,Years of other science coursework
+F1S17A,Years of General Math coursework
+F1S17B,Years of Pre-Algebra coursework
+F1S17C,Years of Algebra I coursework
+F1S17D,Years of Geometry coursework
+F1S17E,Years of Algebra II coursework
+F1S17F,Years of Trigonometry coursework
+F1S17G,Years of Pre-Calculus coursework
+F1S17H,Years of Calculus coursework
+F1S17I,Years of Consumer/Business Math coursework
+F1S17J,Years of other math coursework
+F1S18A,Can do excellent job on math tests
+F1S18B,Can understand difficult math texts
+F1S18C,Can understand difficult math class
+F1S18D,Can do excellent job on math assignments
+F1S18E,Can master math class skills
+F1S19A,How often uses calculators in math class
+F1S19B,How often uses graphing calculators in math class
+F1S19C,How often uses computers in math class
+F1S20A,Used computer in fall 2003 math
+F1S20B,Uses computer in spring 2004 math
+F1S20C,Uses computer in fall 2003 English
+F1S20D,Uses computer in spring 2004 English
+F1S20E,Used computer in fall 2002 math
+F1S20F,Used computer in spring 2003 math
+F1S20G,Used computer in fall 2002 English
+F1S20H,Used computer in spring 2003 English
+F1S21A,Took or plans to take the PSAT
+F1S21B,Took or plans to take the PLAN
+F1S21C,Took or plans to take SAT or ACT
+F1S21D,Took or plans to take Advanced Placement test
+F1S21E,Took or plans to take the ASVAB
+F1S22A,Took or plans to take SAT/ACT course at high school
+F1S22B,Took or plans to take commercial SAT/ACT preparation course
+F1S22C,Received or plans to receive private tutoring for SAT/ACT
+F1S22D,Studied or plans to study from SAT/ACT preparation books
+F1S22E,Used or plans to use SAT/ACT preparation video tape
+F1S22F,Used or plans to use SAT/ACT preparation computer program
+F1S23,Participated in college preparation program for disadvantaged
+F1S24A,Highest grade of participation in Talent Search
+F1S24AA,Participated in Talent Search in 9th grade
+F1S24AB,Participated in Talent Search in 10th grade
+F1S24AC,Participated in Talent Search in 11th grade
+F1S24AD,Participated in Talent Search in 12th grade
+F1S24AE,Did not participate in Talent Search
+F1S24B,Highest grade of participation in Upward Bound
+F1S24BA,Participated in Upward Bound in 9th grade
+F1S24BB,Participated in Upward Bound in 10th grade
+F1S24BC,Participated in Upward Bound in 11th grade
+F1S24BD,Participated in Upward Bound in 12th grade
+F1S24BE,Did not participate in Upward Bound
+F1S24C,Highest grade of participation in Gear Up or other program
+F1S24CA,Participated in Gear Up/other similar program in 9th grade
+F1S24CB,Participated in Gear Up/other similar program in 10th grade
+F1S24CC,Participated in Gear Up/other similar program in 11th grade
+F1S24CD,Participated in Gear Up/other similar program in 12th grade
+F1S24CE,Did not participate in Gear Up/other similar program
+F1S25A,Had something stolen at school
+F1S25B,Someone offered drugs at school
+F1S25C,Someone threatened to hurt student at school
+F1S25D,Someone hit student
+F1S26A,Participated in intramural sports
+F1S26B,Participated in interscholastic sports
+F1S26C,Participated in school band or chorus
+F1S26D,Participated in school play or musical
+F1S26E,Participated in student government
+F1S26F,Participated in academic honor society
+F1S26G,Participated in school yearbook or newspaper
+F1S26H,Participated in school service clubs
+F1S26I,Participated in school academic clubs
+F1S26J,Participated in school hobby clubs
+F1S26K,Participated in school vocational clubs
+F1S27,Hours/week spent on extracurricular activities
+F1S28,School has library media/resource center
+F1S29A,Use of school library for assignments
+F1S29B,Use of school library for in-school projects
+F1S29C,Use of school library for homework
+F1S29D,Use of school library for research papers
+F1S29E,Use of school library for leisure reading
+F1S29F,Use of school library to read magazines/newspapers
+F1S29G,Use of school library to read books for fun
+F1S29H,Use of school library for interests outside of school
+F1S29I,Use of school library for Internet access
+F1S30A,Use of public library for assignments
+F1S30B,Use of public library for in-school projects
+F1S30C,Use of public library for homework
+F1S30D,Use of public library for research papers
+F1S30E,Use of public library for leisure reading
+F1S30F,Use of public library to read magazines/newspaper
+F1S30G,Use of public library to read books for fun
+F1S30H,Use of public library for personal interests outside of school
+F1S30I,Use of public library for Internet access
+F1S31,Hours/week spent on homework both in and out of school
+F1S32A,Hours/week spent on math homework in school
+F1S32B,Hours/week spent on math homework out of school
+F1S33,Hours/week spent reading outside of school
+F1S34A,Hours/day spent watching TV/videos/DVDs on weekdays
+F1S34B,Hours/day spent watching TV/videos/DVDs on weekends
+F1S35A,Hours/day plays video/computer games on weekdays
+F1S35B,Hours/day plays video/computer games on weekends
+F1S36A,Hours/day on computer for school work
+F1S36B,Hours/day on computer other than for school
+F1S37A,How often uses computer at home
+F1S37B,How often uses computer at school library
+F1S37C,How often uses computer at another place at school
+F1S37D,How often uses computer at public library
+F1S37E,How often uses computer at friend^s house
+F1S37F,How often uses computer at another place
+F1S38A,How often uses computer for fun
+F1S38B,How often uses computer for school work
+F1S38C,How often uses computer to learn on own
+F1S39A,How often visits with friends at local hangout
+F1S39B,How often works on hobbies
+F1S39C,How often performs community services
+F1S39D,How often drives or rides around
+F1S39E,How often talks on phone with friends
+F1S39F,"How often takes music, art, language class"
+F1S39G,How often takes sports lessons
+F1S39H,How often plays non-school sports
+F1S39I,How often talks with friends/relatives via the Internet
+F1S40A,Importance of being successful in line work
+F1S40B,Importance of marrying right person/having happy family
+F1S40C,Importance of having lots of money
+F1S40D,Importance of having strong friendships
+F1S40E,Importance of being able to find steady work
+F1S40F,Importance of helping others in community
+F1S40G,Importance of giving children better opportunities
+F1S40H,Importance of living close to parents/relatives
+F1S40I,Importance of getting away from this area
+F1S40J,Importance of working to correct inequalities
+F1S40K,Importance of having children
+F1S40L,Importance of having leisure time
+F1S40M,Importance of being expert in field of work
+F1S40N,Importance of getting good education
+F1S40O,Importance of getting good job
+F1S40P,Importance of being an active/informed citizen
+F1S40Q,Importance of supporting environmental causes
+F1S40R,Importance of being patriotic
+F1S41A,Will work part-time in summer 2004
+F1S41B,Will work full-time in summer 2004
+F1S41C,Will take high school courses in summer 2004
+F1S41D,Will take college courses in summer 2004
+F1S41E,Will provide community service in summer 2004
+F1S41F,Will enter the military in summer 2004
+F1S42,How far in school respondent thinks will get
+F1S43A,How far in school mother wants respondent to go
+F1S43B,How far in school father wants respondent to go
+F1S44A,Mother^s desire for respondent after high school
+F1S44B,Father^s desire for respondent after high school
+F1S44C,Close relative^s desire for respondent after high school
+F1S44D,Friend^s desire for respondent after high school
+F1S44E,School counselor^s desire for respondent after high school
+F1S44F,Favorite teacher^s desire for respondent after high school
+F1S44G,Favorite coach^s desire for respondent after high school
+F1S45,Plans to go on to school right after high school
+F1S46A,No school right after hs since dislikes school
+F1S46B,No school right after hs since grades are not good enough
+F1S46C,No school right after hs since admission scores not good enough
+F1S46D,No school right after hs since will not need more school for job
+F1S46E,No school right after hs since cannot afford school
+F1S46F,No school right after hs since has not taken right courses
+F1S46G,No school right after hs since no one in family has gone
+F1S46H,No school right after hs since plan to join military
+F1S46I,No school right after hs since would rather work and earn money
+F1S46J,No school right after hs since does not feel school is important
+F1S46K,No school right after hs since counselor/teacher recommends work
+F1S46L,No school right after hs since needs to support family
+F1S47,Plans to continue education some time in future
+F1S48A,Has gone to counselor for college entrance information
+F1S48B,Has gone to teacher for college entrance information
+F1S48C,Has gone to coach for college entrance information
+F1S48D,Has gone to parent for college entrance information
+F1S48E,Has gone to sibling for college entrance information
+F1S48F,Has gone to other relative for college entrance information
+F1S48G,Has gone to friend for college entrance information
+F1S48H,Has gone to college representatives for entrance information
+F1S48I,Has gone to college publications/websites for entrance information
+F1S48J,Has gone to college search guides for entrance information
+F1S48K,Has gone to school library for college entrance information
+F1S48L,Has gone to public library for college entrance information
+F1S48M,Has gone to college library for college entrance information
+F1S48N,Did not go to any of these sources for college entrance information
+F1S49,Type of school plans to attend
+F1S50,Number of schools applied to
+F1S52A,Post-sec school^s low expenses important to respondent
+F1S52B,Availability of post-sec financial aid important to respondent
+F1S52C,Post-sec school^s courses/curriculum important to respondent
+F1S52D,Post-sec school^s athletic program important to respondent
+F1S52E,Post-sec school^s active social life important to respondent
+F1S52F,Living at home while attending post-sec important to respondent
+F1S52G,Away from home while attending post-sec important to respondent
+F1S52H,Post-sec school^s low crime important to respondent
+F1S52I,Post-sec school^s job placement record important to respondent
+F1S52J,Post-sec school^s grad school placement important to respondent
+F1S52K,Post-sec school^s academic reputation important to respondent
+F1S52L,Post-sec school^s easy admission important to respondent
+F1S52M,Post-sec school has degree in chosen field important to respondent
+F1S52N,Post-sec school^s racial/ethnic makeup important to respondent
+F1S52O,Post-sec school^s size important to respondent
+F1S52P,Post-sec school^s geographic location important to respondent
+F1S52Q,Post-sec school same as one parent attended important to respondent
+F1S52R,Post-sec school^s acceptance of college credit important to respondent
+F1S53,Plans to work right after high school
+F1S54,Has regular full-time job lined up
+F1S55A,Guidance counselor helped select possible jobs
+F1S55B,Vocational/technical teacher helped select possible jobs
+F1S55C,Other teacher helped select possible jobs
+F1S55D,Coach helped select possible jobs
+F1S55E,Other school staff helped select possible jobs
+F1S58,How much education respondent thinks will be needed for job at age 30
+F1S59,Ever worked for pay not around house
+F1S60,How many hours usually works a week during school year
+F1S61,How many hours works on the weekend during school year
+F1S62,Performed unpaid volunteer/community service work
+F1S63A,Volunteered with youth organization
+F1S63B,Volunteered with school/community service organization
+F1S63C,Volunteered with political club/organization
+F1S63D,Volunteered with church/church related group
+F1S63E,Volunteered with community center/social-action group
+F1S63F,Volunteered with hospital/nursing home group
+F1S63G,Volunteered with education organization
+F1S63H,Volunteered with conservation/environmental group
+F1S64A,How often discussed school courses with parents
+F1S64B,How often discussed school activities with parents
+F1S64C,How often discuss things studied in class with parents
+F1S64D,How often discussed grades with parents
+F1S64E,How often discussed what jobs would like to have with parents
+F1S64F,How often discussed jobs to apply for after high school with parents
+F1S64G,How often discussed preparation for ACT/SAT with parents
+F1S64H,How often discussed going to college with parents
+F1S64I,How often discussed current events with parents
+F1S64J,How often discussed troubling things with parents
+F1S65A,How many friends dropped out of high school
+F1S65B,How many friends plan to have full-time job after high school
+F1S65C,How many friends plan to attend 2-year community college
+F1S65D,How many friends plan to attend 4-year college/university
+F1SCENP,Oct 2003 total school enrollment-administrator quex-categorical
+F1SCFLP,F1 School percent free lunch-categorical
+F1SES1,"F1 Socio-economic status composite, v.1"
+F1SES1QU,F1 Quartile coding of SES1 variable
+F1SES2,"F1 Socio-economic status composite, v.2"
+F1SES2QU,F1 Quartile coding of SES2 variable
+F1SEX,F1 Sex-composite
+F1SEXIM,Imputation Flag - F1SEX
+F1STEXIM,Imputation Flag - F1STEXP
+F1STEXP,F1 How far in school student thinks will get-composite
+F1STLANG,F1 Whether English is student^s native language-composite
+F1STLNIM,Imputation Flag - F1STLANG
+F1STQFLG,F1 student completed student questionnaire
+F1T15,When began going to transfer school
+F1T16A,Transferred because family moved
+F1T16B,Transferred for programs/offerings
+F1T16C,Transferred for quality of instruction
+F1T16D,Transferred because did not feel safe at other school
+F1T16E,Transferred for other reasons
+F1T17A,Students get along well with teachers at transfer school
+F1T17B,There is real school spirit at transfer school
+F1T17C,The teaching is good at transfer school
+F1T17D,Teachers are interested in the students at transfer school
+F1T17E,Teachers praise effort at transfer school
+F1T17F,Does not feel safe at transfer school
+F1T17G,Disruptions get in way of learning at transfer school
+F1T17H,Misbehaving students often get away with it at transfer school
+F1T17I,There are gangs in transfer school
+F1TESTIM,Imputation Flag - F1 math scores
+F1TRQFLG,F1 Student completed transfer questionnaire
+F1TRSCWT,Cross-sectional high school transcript weight
+F1TSTAT,F1 Student test status
+F1TVVIGM,F1 hrs/day watching TV/videos/playing video games (weekdays)
+F1TX1MPP,Mathematics proficiency probability at level 1
+F1TX2MPP,Mathematics proficiency probability at level 2
+F1TX3MPP,Mathematics proficiency probability at level 3
+F1TX4MPP,Mathematics proficiency probability at level 4
+F1TX5MPP,Mathematics proficiency probability at level 5
+F1TXACC,F1 Test accommodations
+F1TXM1IR,F1 Math IRT estimated number right for F1 scores
+F1TXMBIR,F1 Math IRT estimated number right for base year scores
+F1TXMQU,F1 Math quartile score
+F1TXMSTD,F1 Math standardized score
+F1WRKHRS,F1 hours worked per week during 03-04 school year
+F1XTRACU,Number of school-sponsored activities participated in 03-04
+F2B01,Ever applied to postsecondary school
+F2B02,When applied to postsecondary school
+F2B03_P,Number of postsecondary schools applied to
+F2B04,Whether applied for financial aid
+F2B05A,Did not apply for aid because application process too difficult
+F2B05B,Did not apply for aid because thought to be ineligible
+F2B05C,Did not apply for aid because loan payback not affordable
+F2B05D,Did not apply for aid because able to pay without aid
+F2B05E,Did not apply for aid because did not want to report info
+F2B05F,Did not apply for aid because offered aid without applying
+F2B05G,Did not apply for aid because of other reason
+F2B06,Offered financial aid usable at more than one school
+F2B07,Whether has ever attended postsecondary school
+F2B08A,Did not continue education after HS because do not like school
+F2B08B,Did not continue education after HS because grades not high
+F2B08C,Did not continue education after HS because scores not high
+F2B08D,Did not continue educ after high school because won^t need more educ
+F2B08E,Did not continue education after HS because cannot afford school
+F2B08F,Did not continue education after HS because rather work/make money
+F2B08G,Did not continue education after HS because school not important
+F2B08H,Did not continue education after HS for family reasons
+F2B08I,Did not continue education after HS because have a good job
+F2B08J,Did not continue education after HS because was not accepted
+F2B08K,Did not continue education after HS because of traumatic experience
+F2B08L,Did not continue education after HS because of health reasons
+F2B08N,Did not continue education after HS because incarcerated/other reason
+F2B10_P,Number of postsecondary schools attended since high school
+F2B11A,Delayed continuing educ because could not afford school
+F2B11B,Delayed continuing educ because needed to earn money
+F2B11C,Delayed continuing educ because not enough financial aid
+F2B11D,Delayed continuing educ because was not accepted
+F2B11E,Delayed continuing educ because needed to improve acad qualifications
+F2B11F,Delayed continuing educ because school was deferred
+F2B11G,Delayed continuing educ because wanted to work
+F2B11H,Delayed continuing educ because wanted to serve in military
+F2B11I,Delayed continuing educ for family reasons
+F2B11J,Delayed continuing educ because wanted to travel or pursue interests
+F2B11K,Delayed continuing educ because of traumatic experience
+F2B11L,Delayed continuing educ because of health reasons
+F2B11N,Delayed continuing educ b/c incarcerated/other reason
+F2B13A,Chose school for program
+F2B13B,Chose school for reputation
+F2B13C,Chose school for cost
+F2B13D,Chose school for location
+F2B13E,Chose school for personal or family reasons
+F2B13F,Chose school for another reason
+F2B14,Main reason chose school
+F2B15,Field of study most likely to pursue upon entering
+F2B16A,Took remedial course to improve reading skills
+F2B16B,Took remedial course to improve writing skills
+F2B16C,Took remedial course to improve math skills
+F2B17A,High school math prepared for first postsecondary school
+F2B17B,High school science prepared for first postsecondary school
+F2B17C,High school English/writing prepared for first postsecondary school
+F2B17D,High school voc/tech courses prepared for first postsecondary school
+F2B18A,Talk with faculty about academic matters outside of class
+F2B18B,Meet with advisor about academic plans
+F2B18C,Work on coursework at school library
+F2B18D,Use the web to access school library for coursework
+F2B18E,Participate in intramural or nonvarsity sports
+F2B18F,Participate in varsity or intercollegiate sports
+F2B18G,Participate in other extracurricular activities
+F2B20A,Enrolled part-time for financial reasons
+F2B20B,Enrolled part-time because full-time program was not available
+F2B20C,Enrolled part-time because of family responsibilities
+F2B20D,Enrolled part-time because working
+F2B20E,Enrolled part-time because of other interests/hobbies
+F2B20F,Enrolled part-time for personal health reasons
+F2B20G,Enrolled part-time because of a traumatic experience
+F2B20H,Enrolled part-time for another reason
+F2B21A,Transferred because completed degree or certificate
+F2B21B,Transferred because finished classes
+F2B21C,Transferred to pursue bachelor^s degree
+F2B21D,Transferred due to academic problems
+F2B21E,Transferred due to scheduling problems
+F2B21F,Transferred due to dissatisfaction with school
+F2B21G,Transferred because of location
+F2B21H,Transferred for financial reasons
+F2B21I,Transferred due to family responsibilities
+F2B21J,Transferred due to personal health reasons
+F2B21K,Transferred because of a traumatic experience
+F2B21L,Transferred for another reason
+F2B22,Major declared/undeclared
+F2B25A,Postsecondary education paid with grants/scholarships
+F2B25B,Postsecondary education paid with student loans
+F2B25C,Postsecondary education paid with parent loans
+F2B25D,Postsecondary education paid with college work-study
+F2B25E,Postsecondary education paid with savings/job earnings
+F2B25F,Postsecondary education paid with contributions from family
+F2B25G,Postsecondary education paid with employer assistance
+F2B25H,Postsecondary education paid another way
+F2B26P,Amount borrowed for undergraduate loans - categorical
+F2B27,Whether parents helping to repay loans
+F2B28P,Amount expects in undergraduate student loans in future - categorical
+F2B29A,No longer enrolled due to completion of degree/certificate
+F2B29B,No longer enrolled due to finishing desired classes
+F2B29C,No longer enrolled due to academic problems
+F2B29D,No longer enrolled due to scheduling problems
+F2B29E,No longer enrolled due to dissatisfaction with school
+F2B29F,No longer enrolled for financial reasons
+F2B29G,No longer enrolled due to family responsibilities
+F2B29H,No longer enrolled due to personal health reasons
+F2B29I,No longer enrolled due to call for military service
+F2B29J,No longer enrolled due to traumatic experience
+F2B29K,No longer enrolled due to another reason
+F2BYWT,Second follow-up base year panel weight
+F2C01,Ever held a job since leaving high school
+F2C02,Whether held job between high school/first postsecondary attendance
+F2C04P2,Year started first job after high school
+F2C05P,Hours per week on first job after high school - categorical
+F2C06B,Earnings on first job after high school (time unit)
+F2C07,Type of employer - first job
+F2C08A,Job placement due to responding to advertisement
+F2C08B,Job placement due to sending resume or contacting employers
+F2C08C,Job placement due to networking with friends or relatives
+F2C08D,Job placement due to school assistance
+F2C08E,Job placement due to another way
+F2C09,Still employed by first employer after high school
+F2C10P2,Year stopped working for first employer
+F2C11P,Reason no longer working for first employer
+F2C12,Has job with another employer at which works more hours
+F2C13,Whether currently employed
+F2C14,Whether current position with first employer is same job
+F2C15P,Main reason for not currently working
+F2C17P2,Year started current job
+F2C18P,Hours per week on current job - categorical
+F2C19B,Earnings on current job (time unit)
+F2C20,Type of employer - current job
+F2C21,Whether current employer offers health insurance
+F2C22A,Satisfaction with pay/fringe benefits of current job
+F2C22B,Satisfaction with working conditions of current job
+F2C22C,Satisfaction with promotion opportunities of current job
+F2C22D,Satisfaction with security of current job
+F2C23,Description of current job^s purpose
+F2C24_P,Number of jobs during 2004-2005 school year
+F2C25A,Held internship or co-op job while enrolled in 2004-2005 school year
+F2C25B,Held work-study job while enrolled in 2004-2005 school year
+F2C25C,Held job related to studies while enrolled in 2004-2005 school year
+F2C26P,Hours worked weekly during 2004-2005 school year - categorical
+F2C27,Main reason for working while enrolled in 2004-2005 school year
+F2C28,Whether could have afforded school without working in 2004-2005
+F2C29_P,Number of jobs during 2005-2006 school year
+F2C30A,Held internship or co-op job while enrolled in 2005-2006 school year
+F2C30B,Held work-study job while enrolled in 2005-2006 school year
+F2C30C,Held job related to studies while enrolled in 2005-2006 school year
+F2C31P,Hours worked weekly during 2005-2006 school year - categorical
+F2C32,Main reason for working while enrolled in 2005-2006 school year
+F2C33,Whether could have afforded school without working in 2005-2006
+F2C35_P,Respondent^s total 2005 job earnings-categorical
+F2C36,Contribute to children^s or anyone else^s support
+F2C37_P,Number of credit cards in own name
+F2C38,Whether used credit to pay tuition
+F2C39,Payoff or carry credit balance
+F2C41,How much education respondent thinks will be needed for job at age 30
+F2CURO_P,Current occupation (using ELS BY/F1 coding scheme)
+F2CURWGE,Standardized current job wage rate (per hour)
+F2D01,Marital status
+F2D02P2,Year of first marriage
+F2D03,Whether has biological children
+F2D04_P,Number of biological children
+F2D05P2,Year first biological child was born
+F2D07,Residence while enrolled in spring 2006
+F2D08A_P,Household composition-father or male guardian
+F2D08B_P,Household composition-mother or female guardian
+F2D08C_P,Household composition-friends or roommates
+F2D08D_P,Household composition-siblings
+F2D08E,Household composition-spouse
+F2D08F_P,Household composition-biological children
+F2D08G_P,Household composition-other children
+F2D08H_P,Household composition-others
+F2D09,Whether performed volunteer/community service work in past 2 years
+F2D10A,Volunteered with youth organization
+F2D10B,Volunteered with school/community organizations
+F2D10C,Volunteered with political organization
+F2D10D,Volunteered with church-related group
+F2D10E,Volunteered with neighborhood/social action associations
+F2D10F,Volunteered with hospital or nursing home
+F2D10G,Volunteered with education organizations
+F2D10H,Volunteered with conservation/environmental group
+F2D11,Frequency of volunteer service
+F2D12,Voted in local or state election in past 2 years
+F2D13,Voted in 2004 Presidential election
+F2D14,Whether served in military
+F2D15A,Parents/guardians divorced in last 2 years
+F2D15B,Parent/guardian lost job in last 2 years
+F2D15C,Parent/guardian died in last 2 years
+F2D15D,A close relative/friend died in last 2 years
+F2D15E,Respondent became seriously ill or disabled in last 2 years
+F2D15F,Family member became seriously injured/disabled in last 2 years
+F2D15G,Respondent was victim of violence in last 2 years
+F2DOSTAT,F2 dropout status (as of 2006 interview)
+F2E0401P,Employment status - 2004/01 (January 2004)
+F2E0402P,Employment status - 2004/02 (February 2004)
+F2E0403P,Employment status - 2004/03 (March 2004)
+F2E0404P,Employment status - 2004/04 (April 2004)
+F2E0405P,Employment status - 2004/05 (May 2004)
+F2E0406P,Employment status - 2004/06 (June 2004)
+F2E0407P,Employment status - 2004/07 (July 2004)
+F2E0408P,Employment status - 2004/08 (August 2004)
+F2E0409P,Employment status - 2004/09 (September 2004)
+F2E0410P,Employment status - 2004/10 (October 2004)
+F2E0411P,Employment status - 2004/11 (November 2004)
+F2E0412P,Employment status - 2004/12 (December 2004)
+F2E0501P,Employment status - 2005/01 (January 2005)
+F2E0502P,Employment status - 2005/02 (February 2005)
+F2E0503P,Employment status - 2005/03 (March 2005)
+F2E0504P,Employment status - 2005/04 (April 2005)
+F2E0505P,Employment status - 2005/05 (May 2005)
+F2E0506P,Employment status - 2005/06 (June 2005)
+F2E0507P,Employment status - 2005/07 (July 2005)
+F2E0508P,Employment status - 2005/08 (August 2005)
+F2E0509P,Employment status - 2005/09 (September 2005)
+F2E0510P,Employment status - 2005/10 (October 2005)
+F2E0511P,Employment status - 2005/11 (November 2005)
+F2E0512P,Employment status - 2005/12 (December 2005)
+F2E0601P,Employment status - 2006/01 (January 2006)
+F2EDLEVL,Highest level of education attempted
+F2EMPPTN,Employment pattern (nonenrollees) in 2006
+F2EMSTAB,Number of months employed in current job
+F2ENRGAP,Whether there was a gap in postsecondary enrollment
+F2ERN5P2,Respondent^s total 2005 job earnings
+F2EVAPIM,Imputation flag - F2EVRAPP (F2B01)
+F2EVATIM,Imputation flag - F2EVRATT (F2B07)
+F2EVERDO,F2 ever dropped out
+F2EVRAPP,Ever applied to postsecondary school - composite
+F2EVRATT,Whether has ever attended a postsecondary institution - composite
+F2EVRGED,Ever earned GED/equivalency
+F2EVRJIM,Imputation flag - F2EVRJOB (F2C01)
+F2EVRJOB,Ever held a job since leaving high school - composite
+F2F1EDEX,F1-F2 Bachelor^s degree expectation change
+F2F1GR_P,F1 grade level spring term 2004 (updated)
+F2F1HSST,High school completion status as of summer 2004
+F2F1WT,Second follow-up first follow-up panel weight
+F2FSTWGE,Standardized first job wage rate (per hour)
+F2GEDP_P,Program in which GED was earned
+F2HHPAR,Whether sample member lived with parents in 2006
+F2HHTO_P,Number of 2006 household members including respondent
+F2HIGRDE,Highest grade level attempted
+F2HS2P_P,Number of months between high school and postsecondary entry
+F2HSATTM,High school attainment indicator (academic risk)
+F2HSCPP2,"Year received high school diploma, certificate or GED"
+F2HSLVP2,Year last attended high school
+F2HSPLAN,Whether plans to get GED or high school diploma/certificate
+F2HSPLP2,Year plans to complete high school diploma/certificate/GED
+F2HSSTAT,High school completion status in 2006
+F2I0401,Enrolled in postsecondary institution in 2004/01 (January 2004)
+F2I0402,Enrolled in postsecondary institution in 2004/02 (February 2004)
+F2I0403,Enrolled in postsecondary institution in 2004/03 (March 2004)
+F2I0404,Enrolled in postsecondary institution in 2004/04 (April 2004)
+F2I0405,Enrolled in postsecondary institution in 2004/05 (May 2004)
+F2I0406,Enrolled in postsecondary institution in 2004/06 (June 2004)
+F2I0407,Enrolled in postsecondary institution in 2004/07 (July 2004)
+F2I0408,Enrolled in postsecondary institution in 2004/08 (August 2004)
+F2I0409,Enrolled in postsecondary institution in 2004/09 (September 2004
+F2I0410,Enrolled in postsecondary institution in 2004/10 (October 2004)
+F2I0411,Enrolled in postsecondary institution in 2004/11 (November 2004)
+F2I0412,Enrolled in postsecondary institution in 2004/12 (December 2004)
+F2I0501,Enrolled in postsecondary institution in 2005/01 (January 2005)
+F2I0502,Enrolled in postsecondary institution in 2005/02 (February 2005)
+F2I0503,Enrolled in postsecondary institution in 2005/03 (March 2005)
+F2I0504,Enrolled in postsecondary institution in 2005/04 (April 2005)
+F2I0505,Enrolled in postsecondary institution in 2005/05 (May 2005)
+F2I0506,Enrolled in postsecondary institution in 2005/06 (June 2005)
+F2I0507,Enrolled in postsecondary institution in 2005/07 (July 2005)
+F2I0508,Enrolled in postsecondary institution in 2005/08 (August 2005)
+F2I0509,Enrolled in postsecondary institution in 2005/09 (September 2005
+F2I0510,Enrolled in postsecondary institution in 2005/10 (October 2005)
+F2I0511,Enrolled in postsecondary institution in 2005/11 (November 2005)
+F2I0512,Enrolled in postsecondary institution in 2005/12 (December 2005)
+F2I0601,Enrolled in postsecondary institution in 2006/01 (January 2006)
+F2I0602,Enrolled in postsecondary institution in 2006/02 (February 2006)
+F2I0603,Enrolled in postsecondary institution in 2006/03 (March 2006)
+F2I0604,Enrolled in postsecondary institution in 2006/04 (April 2006)
+F2I0605,Enrolled in postsecondary institution in 2006/05 (May 2006)
+F2I0606,Enrolled in postsecondary institution in 2006/06 (June 2006)
+F2I0607,Enrolled in postsecondary institution in 2006/07 (July 2006)
+F2I0608,Enrolled in postsecondary institution in 2006/08 (August 2006)
+F2IACCPT,Whether was accepted by this postsecondary institution
+F2IAPPLY,Whether applied in first round of applications
+F2IATTND,Whether attended this postsecondary institution
+F2ICNTRL,Control of institution
+F2IEND,Last period of attendance at this postsecondary institution
+F2IFTPT,Intensity of enrollment at postsecondary school
+F2IGRANT,Offered scholarship or grant
+F2ILEVEL,Level of institution
+F2ILOAN,Offered loan
+F2IMO45,Number of months enrolled in institution in 2004-2005 school year
+F2IORDER,F2 Institution file order number
+F2IPRE_P,Number of months enrolled at postsecondary institution in 2002-2003
+F2ISECTR,Sector of institution
+F2ISTART,First period of attendance at this postsecondary institution
+F2IWAIVR,Offered tuition waiver/discount
+F2IWKSTY,Offered work study
+F2LIVARR,Spring 2006 living arrangements
+F2MARPAR,Current (2006) marital-parental status
+F2MJR2_P,Major in 2006 2-digit code
+F2NACC1P,Number of schools that accepted respondent
+F2NACC2P,Number of schools that accepted respondent (revised)
+F2NAPAID,Number of applied-to schools which offered respondent financial aid
+F2NAPP1P,Number of schools respondent applied to
+F2NAPP2P,Number of schools respondent applied to (revised)
+F2NATT_P,Number of schools respondent attended
+F2NLFE_P,Number of different types of stressful life events in past two years
+F2OCC1Q,Questionable first post-high school occupation flag
+F2OCC30P,Occupation at age 30 (using ELS BY/F1 coding scheme)
+F2PCTACC,Percentage of applied-to schools at which respondent was accepted
+F2PCTAID,Percentage of acceptance schools which also offered financial aid
+F2POUTWF,Percent of months nonenrollee out of work force between HS and Jan 06
+F2PS1,First ^real^ postsecondary institution link number
+F2PS1AID,Whether offered financial aid 1st yr at 1st postsec institution
+F2PS1CTR,Control of first postsecondary institution
+F2PS1EEX,College entrance exam scores relative to average scores at 1st PS inst
+F2PS1FTP,Enrollment intensity at first postsecondary institution
+F2PS1GRT,Offered scholarship/grant for first year at first postsec institution
+F2PS1LN,Offered loan for first year at first postsecondary institution
+F2PS1LVL,Level of offering of first postsecondary institution
+F2PS1NTY,Number of types of aid offered by first postsecondary institution
+F2PS1OUT,Whether 1st postsecondary institution out of state of residence
+F2PS1REM,Took math/writing/reading remedial course at 1st postsec institution
+F2PS1SEC,Sector of first postsecondary institution
+F2PS1WKS,Offered work-study for first year at first postsecondary institution
+F2PS1WVR,Offered tuition waiver/discount - 1st year at 1st postsec institution
+F2PS0401,Enrolled in postsecondary institution in - 2004/01 (January 2004)
+F2PS0402,Enrolled in postsecondary institution in - 2004/02 (February 2004)
+F2PS0403,Enrolled in postsecondary institution in - 2004/03 (March 2004)
+F2PS0404,Enrolled in postsecondary institution in - 2004/04 (April 2004)
+F2PS0405,Enrolled in postsecondary institution in - 2004/05 (May 2004)
+F2PS0406,Enrolled in postsecondary institution in - 2004/06 (June 2004)
+F2PS0407,Enrolled in postsecondary institution in - 2004/07 (July 2004)
+F2PS0408,Enrolled in postsecondary institution in - 2004/08 (August 2004)
+F2PS0409,Enrolled in postsecondary institution in - 2004/09 (September 2004)
+F2PS0410,Enrolled in postsecondary institution in - 2004/10 (October 2004)
+F2PS0411,Enrolled in postsecondary institution in - 2004/11 (November 2004)
+F2PS0412,Enrolled in postsecondary institution in - 2004/12 (December 2004)
+F2PS0501,Enrolled in postsecondary institution in - 2005/01 (January 2005)
+F2PS0502,Enrolled in postsecondary institution in - 2005/02 (February 2005)
+F2PS0503,Enrolled in postsecondary institution in - 2005/03 (March 2005)
+F2PS0504,Enrolled in postsecondary institution in - 2005/04 (April 2005)
+F2PS0505,Enrolled in postsecondary institution in - 2005/05 (May 2005)
+F2PS0506,Enrolled in postsecondary institution in - 2005/06 (June 2005)
+F2PS0507,Enrolled in postsecondary institution in - 2005/07 (July 2005)
+F2PS0508,Enrolled in postsecondary institution in - 2005/08 (August 2005)
+F2PS0509,Enrolled in postsecondary institution in - 2005/09 (September 2005)
+F2PS0510,Enrolled in postsecondary institution in - 2005/10 (October 2005)
+F2PS0511,Enrolled in postsecondary institution in - 2005/11 (November 2005)
+F2PS0512,Enrolled in postsecondary institution in - 2005/12 (December 2005)
+F2PS0601,Enrolled in postsecondary institution in - 2006/01 (January 2006)
+F2PS2006,2006 postsecondary institution link number
+F2PSEEXM,Whether took college entrance exams
+F2PSEJ06,January 2006 postsecondary enrollment status: level by intensity
+F2PSEND,Last period of postsecondary education
+F2PSEPLN,Fulfillment of 2004 Senior Year college plans
+F2PSMO45,Number of months enrolled in a postsec institution in 04-05 school yr
+F2PSPPLN,Postsecondary education pipeline
+F2PSPR_4,Number of months of postsecondary enrollment before January 2004
+F2PSSTRT,When started postsecondary education
+F2PSYR1,Number of months enrolled in a PS inst in the year after HS comp/exit
+F2PTN1PS,PSE attendance pattern (schl level): initial post-hs period v. Jan 06
+F2PTN2PS,PSE attendance pattern (intensity): initial post-hs period v. Jan 2006
+F2PTN3PS,Postsecondary attendance pattern: 1st year after high school
+F2PUNE1P,Percent of months nonenrollee unemployed since HS completion/exit
+F2PUNE2P,Percent of months nonenrollee unemployed between HS and January 06
+F2QMODE,F2 mode of administration
+F2QSTAT,F2 questionnaire status
+F2QTSCWT,Second follow-up transcript cross-sectional weight
+F2QWT,Second follow-up cross-sectional weight
+F2QXDATP,F2 date completed interview
+F2RTYPE,F2 respondent type
+F2SP04DO,Spring 2004 dropout status (updated)
+F2STEMOCC36,STEM occupation flag for student's known expected occupation at age 30 as of F2 (STEM flag for F2ONET36)
+F2STEMOCCC6,STEM occupation flag for student's known current occupation as of F2 (STEM flag for F2ONETC6)
+F2STEXIM,Imputation flag - F2STEXP (F2B30)
+F2STEXP,Highest level of education respondent expects to complete - composite
+F2SWITCH,Whether transferred or switched postsecondary institutions
+F2WYGED1,Completed GED to improve/advance/keep up to date on current job
+F2WYGED2,Completed GED to train for new job/career
+F2WYGED3,"Completed GED to improve basic reading, writing, or math skills"
+F2WYGED4,Completed GED to meet requirements for additional study
+F2WYGED5,Completed GED because required or encouraged by employer
+F2WYGED6,Completed GED because of personal/family/social reasons
+F2WYLV1,Left school because got a job
+F2WYLV2,Left school because did not like school
+F2WYLV3,Left school because could not get along with teachers/students
+F2WYLV4,Left school because pregnant/became parent
+F2WYLV5,Left school because had to support or care for family
+F2WYLV6,Left school because was suspended/expelled
+F2WYLV7,Left school because did not feel safe
+F2WYLV8,Left school because did not feel belonged there
+F2WYLV9,Left school because could not keep up with schoolwork
+F2WYLV10,Left school because was getting poor grades/failing school
+F2WYLV11,Left school because could not work at same time
+F2WYLV12,Left schl b/c thought couldn^t complete courses/pass test to graduate
+F2WYLV13,Left school because thought it would be easier to get GED
+F2WYLV14,Left school because missed too many school days
+F3A01A,Current activities:  Working for pay at a FT job
+F3A01B,Current activities:  Working for pay at a PT job
+F3A01C,Current activities:  Serving in another work experience
+F3A01D,Current activities:  Taking courses at a 2- or 4-yr school
+F3A01E,Current activities:  Taking courses at a voc/tech/trade school
+F3A01F,Current activities:  Keeping house
+F3A01G,Current activities:  Caring for dependents
+F3A01H,Current activities:  Serving in the military
+F3A02,Whether June 2012 activities are the same as current activities
+F3A03A,June 2012 activities:  Working for pay at a FT job
+F3A03B,June 2012 activities:  Working for pay at a PT job
+F3A03C,June 2012 activities:  Serving in another work experience
+F3A03D,June 2012 activities:  Taking courses at a 2- or 4-yr school
+F3A03E,June 2012 activities:  Taking courses at a voc/tech/trade school
+F3A03F,June 2012 activities:  Keeping house
+F3A03G,June 2012 activities:  Caring for dependents
+F3A03H,June 2012 activities:  Serving in the military
+F3A04,Whether R has received a HS credential
+F3A05,Type of HS credential received
+F3A07,Program through which GED/equivalency was earned
+F3A10,Whether currently working towards a GED/equivalent
+F3A12,Year/month last attended postsecondary school
+F3A13A,Whether earned a credential from last-attended PS institution
+F3A13B,Type of credential pursued when last attending PS school
+F3A14A,High-impact PS activities:  Internship/co-op/field experience/student teaching/clinical assignment
+F3A14B,High-impact PS activities:  Research project with faculty member outside course/program requirements
+F3A14C,High-impact PS activities:  Study abroad
+F3A14D,High-impact PS activities:  Community-based project
+F3A14E,High-impact PS activities:  Culminating senior experience
+F3A14F,High-impact PS activities:  Mentoring
+F3A15A,Extent to which PSE prepared for life:  Work and career
+F3A15B,Extent to which PSE prepared for life:  Further education
+F3A15C,Extent to which PSE prepared for life:  Establishing financial security
+F3A15D,Extent to which PSE prepared for life:  Civic participation
+F3A16A,Reasons for no PS credential:  Finished taking desired classes
+F3A16B,Reasons for no PS credential:  Couldn't afford to continue going to school
+F3A16C,Reasons for no PS credential:  Would rather work and make money than continue going to school
+F3A16D,Reasons for no PS credential:  Change in family status
+F3A16E,"Reasons for no PS credential:  Personal problems, injury, or illness"
+F3A16F,Reasons for no PS credential:  Conflicts with demands at home
+F3A16G,Reasons for no PS credential:  Difficulty completing requirements
+F3A16H,Reasons for no PS credential:  Classes not available / class scheduling not convenient
+F3A16I,Reasons for no PS credential:  Job or military considerations
+F3A18,Whether R took out any student/PSE loans
+F3A20,Whether currently making monthly payments on student loans
+F3A22A,Effects of student loan debt:  Took job outside field of study or training
+F3A22B,Effects of student loan debt:  Took a less desirable job
+F3A22C,Effects of student loan debt:  Have to work at more than one job at the same time
+F3A22D,Effects of student loan debt:  Have to work more hours than desired
+F3A23,Whether R received grants/scholarships during first term at first attended PS institution
+F3A24A,Proportion of tuition/fees paid by grants/scholarships (1st term at 1st attended PS institution)
+F3A24B,Proportion of other college expenses paid by grants/scholarships (1st term at 1st attended PS institution)
+F3A25,Whether R received grants/scholarships during last term at last attended PS institution
+F3A26A,Proportion of tuition/fees paid by grants/scholarships (last term at last attended PS institution)
+F3A26B,Proportion of other college expenses paid by grants/scholarships (last term at last attended PS institution)
+F3A27,Whether R has a professional certification or license
+F3A28A,R is/was certified/licensed by state
+F3A28B,R is/was certified/licensed by a professional organization
+F3A28C,R is/was certified/licensed by industry/company/some other organization
+F3A29A,Certification/license requires R to demonstrate skills while on the job
+F3A29B,Certification/license requires R to pass a test or exam
+F3A29C,Certification/license requires R to submit a portfolio of work
+F3A30A,Certification/license must be maintained via continuing education classes/units
+F3A30B,Certification/license must be maintained via periodic tests
+F3A31A,Certification/license can be revoked or suspended for any reason
+F3A31B,Certification/license can be used to get job with any employer in field
+F3A32,Certification/license required for current/most recent job
+F3ATTAINDATE,Year/month received highest credential earned
+F3ATTAINMENT,Highest level of education earned as of F3
+F3ATTAINMENTIM,Imputation flag - F3ATTAINMENT
+F3B01,Whether R has ever been in the military
+F3B02A,Military service is/was in the Army
+F3B02B,Military service is/was in the Air Force
+F3B02C,Military service is/was in the Marine Corps
+F3B02D,Military service is/was in the Navy
+F3B03,"Whether R is currently serving on active duty, in reserves, or in National Guard"
+F3B04,Year/month first served in the military
+F3B05,Year/month last served in the military
+F3B06,Highest military pay grade achieved
+F3B07,Ever served on active duty
+F3B08,Ever served in a combat zone
+F3B09,Held a job for pay since January 2006
+F3B10,Whether R currently wants a job / full-time job
+F3B11,Whether R is currently available and looking for work
+F3B12,Number of employers since January 2006
+F3B13,Year/month last worked for pay
+F3B14A,Number of currently-held full-time jobs
+F3B14B,Number of currently-held part-time jobs
+F3B16,Year/month began current/most recent job
+F3B17,Whether working for self or for someone else in current/most recent job
+F3B18A,Whether R is/was owner of own business in current/most recent job
+F3B18B,Whether R is/was a partner with others in current/most recent job
+F3B18C,Whether R is/was to file federal income tax form SE for current/most recent job
+F3B18D,Whether R is/was independent contractor/consultant in current/most recent job
+F3B19,Current/most recent employer type
+F3B20,Whether R supervises other in current/most recent job
+F3B21,Hours worked per week in current/most recent (primary) job
+F3B22,Hours currently working per week across all jobs
+F3B23,Level of autonomy in current/most recent job
+F3B24,Whether current/most recent employer offers medical insurance
+F3B25A,Aspects of current/most recent job:  Job security
+F3B25B,Aspects of current/most recent job:  Opportunity to learn new things
+F3B25C,Aspects of current/most recent job:  High earnings
+F3B25D,Aspects of current/most recent job:  New challenges
+F3B25E,Aspects of current/most recent job:  Time for leisure activities
+F3B25F,Aspects of current/most recent job:  Useful for society
+F3B25G,Aspects of current/most recent job:  Work-family balance
+F3B26,Pay period for current/most recent job
+F3B27,Whether paid at an hourly rate at current/most recent job
+F3B29,Relationship between current/most recent job and career goals
+F3B30A,Whether graduate degree is/was required for current/most recent job
+F3B30B,Whether Bachelor's degree is/was required for current/most recent job
+F3B30C,Whether Associate's degree is/was required for current/most recent job
+F3B30D,Whether undergraduate certificate is/was required for current/most recent job
+F3B31,Relationship between current/most recent job and field of study
+F3B32,Ever had a job closely related to field of study
+F3B33,Whether current/most recent job would be difficult without college coursework
+F3B34A,SCCT:  Most people at work are pretty supportive
+F3B34B,SCCT:  There are people to learn from at work
+F3B34C,SCCT:  There are people to help in solving a work problem
+F3B34D,SCCT:  Feels fairly well satisfied with current job
+F3B34E,SCCT:  Enthusiastic about work on most days
+F3B34F,SCCT:  Finds real enjoyment in work
+F3B34G,SCCT:  Plans to remain in current job over the next year
+F3B34H,SCCT:  Usually doesn't think about leaving current job
+F3B34I,SCCT:  Feels pretty strongly committed to keeping current job
+F3B35,Whether R has received formal employer-provided training
+F3BYEDEXPFF,Fulfillment of BY educational expectations as of F3
+F3BYONET302,2-digit ONET code for student's expected occupation at age 30 as of BY (ONET version of BYOCC30)
+F3BYPNLPSWT,"Transcript: Panel Weight, BY, F3, and Postsecondary Transcript"
+F3BYSTEMOC30,STEM occupation flag for student's known expected occupation at age 30 as of BY (STEM flag for F3BYONET306)
+F3BYTSCPSWT,"Transcript: Panel Weight, BY, F3, High School Transcript, and Postsecondary Transcript"
+F3BYTSCWT,"Panel weight, BY and F3 (2002 and 2012) HS transcript respondent weight"
+F3BYTSCWT_O,"Panel weight, BY and F3 (2002 and 2012) HS transcript respondent weight (as of F3 survey)"
+F3C01,Number of weeks employed during 2011
+F3C02,Number of hours worked per week during 2011
+F3C03,Proportion employed during 2010
+F3C04,Hours worked during a typical working week in 2010
+F3C05,Proportion employed during 2009
+F3C06,Hours worked during a typical working week in 2009
+F3C07,Ever unemployed since January 2009
+F3C08,Total number of months unemployed since January 2009
+F3C09,Total number of times unemployed since January 2009
+F3C10,Longest unemployment spell (in months) since January 2009
+F3C11,Whether recvd/applied/been eligible to receive unemp compensation since Jan 2009
+F3C12A,Employment barriers:  Not having the required credential
+F3C12B,Employment barriers:  Not having high enough grades
+F3C12C,Employment barriers:  Being considered overqualified
+F3C12D,"Employment barriers:  Illness, accident, or disability"
+F3C12E,Employment barriers:  Lack of openings in chosen field
+F3C12F,Employment barriers:  Inability to relocate
+F3C12G,Employment barriers:  Lack of affordable child care
+F3C12H,Employment barriers:  Racial/ethnic discrimination
+F3C12I,Employment barriers:  Gender discrimination
+F3C12J,Employment barriers:  Lack of social connections/contacts
+F3C12K,Employment barriers:  Transportation difficulties
+F3C14,How much education R thinks s/he will need for expected job at age 30
+F3CNSDUE,"Consolidated loan: amount owed, principal and interest (as of F3)"
+F3CNSOWED,Consolidated loan: amount owed (as of F3)
+F3CURRV30,Current/most recent job v. expected age-30 occupation
+F3D02,Number of times R has been married
+F3D04,Whether R is currently living with significant other in a marriage-like relship
+F3D05,Spouse/partner's highest level of education
+F3D06,Whether R has any biological children
+F3D07,Number of biological children
+F3D09_1,Whether R was married to first child's other parent at time of birth
+F3D09_2,Whether R was married to second child's other parent at time of birth
+F3D09_3,Whether R was married to third child's other parent at time of birth
+F3D09_4,Whether R was married to fourth child's other parent at time of birth
+F3D10,Whether R has ever adopted a child
+F3D11,Number of adopted children
+F3D14,Whether R lives by self or with others
+F3D15A,Household composition:  Friends or roommates
+F3D15B,Household composition:  Brothers or sisters
+F3D15C,Household composition:  Children
+F3D15D,Household composition:  Mother or female guardian
+F3D15E,Household composition:  Father or male guardian
+F3D15F,Household composition:  Spouse
+F3D15G,Household composition:  Partner in a marriage-like relationship
+F3D15H,Household composition:  Others
+F3D16,"Whether R lives in parent(s) home, or parents live in R's home"
+F3D17,Whether R contributes to cost of room/board in parents home
+F3D18,Whether R has dependents
+F3D19A,Number of dependents less than age 18
+F3D19B,Number of dependents age 18 or older
+F3D21,R's 2011 employment earnings -- categorical
+F3D23,Spouse/partner's 2011 employment earnings -- categorical
+F3D24,Whether received public assistance during 2011
+F3D25,Whether received financial assistance from parents during last 12 months
+F3D26,2011 income from sources other than employment
+F3D27,Whether R has a retirement account (un-married/un-partnered)
+F3D28A,Whether R has a joint retirement account with spouse/partner
+F3D28B,Whether R has a retirement account separate from spouse/partner
+F3D28C,Whether spouse/partner has a retirement account separate from R
+F3D29,Dollar amount currently held in retirment account
+F3D30,Whether owns home / rents / has some other arrangement
+F3D31,Current value of home
+F3D32,Amount currently owed on mortgage
+F3D33,Total non-mortgage debt
+F3D34,Whether assets are greater than / equal to / less than debts
+F3D35,Difference between assets and debts
+F3D36,Subjective rating of financial stress
+F3D37,Whether currently registered to vote
+F3D38,Whether voted in the 2008 presidential election
+F3D39,"Whether voted in any local/state/national election during 2009, 2010, or 2011"
+F3D40,Performed unpaid volunteer work during the last 2 years
+F3D41A,Volunteer organizations:  Youth organizations
+F3D41B,Volunteer organizations:  Service organizations
+F3D41C,Volunteer organizations:  Political clubs or organizations
+F3D41D,Volunteer organizations:  Religious or spiritual organizations
+F3D41E,Volunteer organizations:  Community/civic associations or groups
+F3D41F,Volunteer organizations:  Hospital/nursing home/retirement community
+F3D41G,Volunteer organizations:  Educational organizations
+F3D41H,Volunteer organizations:  Conservation/recycling/environmental group
+F3D41I,Volunteer organizations:  Group providing intnatl aid / promoting world peace
+F3D41J,Volunteer organizations:  Group helping people in need of food/shelter/basic necessities
+F3D41K,Volunteer organizations:  Group/organization related to arts or culture
+F3D41L,Volunteer organizations:  Other
+F3D41M,Volunteer organizations:  None of the above
+F3D42,Frequency of volunteer service
+F3D43,Frequency of philanthropic giving/donations
+F3D44A,Traumatic events since Jan 2006:  Parents/guardians were divorced or separated
+F3D44B,Traumatic events since Jan 2006:  Parent/guardian lost job
+F3D44C,Traumatic events since Jan 2006:  R lost job
+F3D44D,Traumatic events since Jan 2006:  Parent or guardians died
+F3D44E,Traumatic events since Jan 2006:  Close relative or friend died
+F3D44F,Traumatic events since Jan 2006:  R became seriously ill or disabled
+F3D44G,Traumatic events since Jan 2006:  Family member became seriously ill or disabled
+F3D44H,Traumatic events since Jan 2006:  Victim of a violence
+F3D45A,Year/month parents/guardians were divorced (1st occurrence since Jan 2006)
+F3D46A,Year/month parent/guardian lost job (1st occurrence since Jan 2006)
+F3D46B,"Year/month parent/guardian lost job (last occurrence, if 2+ occurrences)"
+F3D47A,Year/month R lost job (1st occurrence since Jan 2006)
+F3D47B,"Year/month R lost job (last occurrence, if 2+ occurrences)"
+F3D48A,Year/month parent/guardian died (1st occurrence since Jan 2006)
+F3D53A,Values:  Having right person to marry/happy family life
+F3D53B,Values:  Having lots of money
+F3D53C,Values:  Having strong friendships
+F3D53D,Values:  Helping other people in community
+F3D53E,Values:  Being able to give children better opportunities
+F3D53F,Values:  Living close to parents and relatives
+F3D53G,Values:  Working to correct social and economic inequalities
+F3D53H,Values:  Having children
+F3D53I,Values:  Having leisure time to enjoy own interests
+F3D53J,Values:  Being an expert in field of work
+F3D53K,Values:  Having a good education
+F3EDSTAT,Postsecondary enrollment status as of the F3 interview
+F3EMPSTAT,Employment status as of the F3 interview
+F3EMPSTATIM,Imputation flag - F3EMPSTAT
+F3ERN2011,2011 employment income:  R only
+F3ERN2011IM,Imputation flag - F3ERN2011 (F3D20)
+F3EVERDO,F3 ever dropped out of high school (updated version of F2EVERDO)
+F3EVR2YR,Ever attended a 2-year institution
+F3EVR4YR,Ever attended a 4-year institution
+F3EVRATT,F3 ever attended a postsecondary institution
+F3EVRATTIM,Imputation flag - F3EVRATT (F3A11)
+F3EVRGED,F3 ever earned GED/equivalency (updated version of F2EVRGED)
+F3EVRHI4,Ever attended a highly-selective 4-year institution
+F3EVRINCL4,Ever attended an inclusive 4-year institution
+F3EVRJOB,Ever worked for pay since January 2006
+F3EVRJOBIM,Imputation flag - F3EVRJOB (F3B09)
+F3EVRLT2,Ever attended a less-than 2-year institution
+F3EVRMOD4,Ever attended a moderately-selective 4-year institution
+F3EVRPRIFOR,Ever attended a private for-profit PS institution
+F3EVRPRINOT,Ever attended a private not-for-profit PS institution
+F3EVRPUB,Ever attended a public PS institution
+F3F1EDEXPFF,Fulfillment of F1 educational expectations as of F3
+F3F1ONET302,2-digit ONET code for student's expected occupation at age 30 as of F1 (ONET version of F1OCC30)
+F3F1ONETF2,2-digit ONET code for father/male guardian's occupation as of F1 (ONET version of F1OCCUF)
+F3F1ONETM2,2-digit ONET code for mother/female guardian's occupation as of F1 (ONET version of F1OCCUM)
+F3F1PNLPSWT,"Transcript: Panel Weight, F1, F3, and postsecondary Transcript"
+F3F1PNLWT,"Panel weight, F1 and F3 (2006 and 2012)"
+F3F1STEMOC30,STEM occupation flag for student's known expected occupation at age 30 as of F1 (STEM flag for F3F1ONET306)
+F3F1STEMOCCF,STEM occupation flag for father/male guardian's known occupation as of F1 (STEM flag for F3F1ONETF6)
+F3F1STEMOCCM,STEM occupation flag for mother/female guardian's known occupation as of F1 (STEM flag for F3F1ONETM6)
+F3F1TSCPSWT,"Transcript: Panel Weight, F1, F3, High School Transcript, and postsecondary Transcript"
+F3F1TSCWT,"Panel weight, F1 and F3 (2006 and 2012) HS transcript respondent weight"
+F3F1TSCWT_O,"Panel weight, F1 and F3 (2006 and 2012) HS transcript respondent weight (as of F3 survey)"
+F3FEDCUM3,Cumulative federal loan amount for undergrad and grad
+F3FEDDUE3,"Cumulative federal loan amount owed, principal and interest, for undergraduate or graduate education"
+F3FURTHERED,Whether R has already attained expected highest level of education
+F3GEDPRG,F3 program in which GED was earned (updated version of F2GEDPRG)
+F3GPLUSCUM,Cumulative Graduate PLUS amount
+F3HIIMPACT,Number of high-impact educational activities in which R participated
+F3HS2BA,Number of months between HS completion and BA completion
+F3HS2PS1,Number of months between HS exit and PS entry
+F3HSCPDR,High school completion date (updated version of F2HSCPDR)
+F3HSSTAT,High school completion status (updated version of F2HSSTAT)
+F3ICNTRL,Control of attended postsecondary institution
+F3ICREDDATE_1,Credential #1:  year/month earned
+F3ICREDDBLMAJ_1,Credential #1:  double major indicator
+F3ICREDGEN_1,Credential #1:  field-of-study 2-digit code
+F3ICREDNUM,Number of credentials earned at postsecondary institution
+F3ICREDTYPE_1,Credential #1:  credential type
+F3IFIRSTINST,Institution is R's first-attended postsecondary institution
+F3ILASTINST,Institution is R's last/currently attended postsecondary institution
+F3ILEVEL,Level of attended postsecondary institution
+F3ISECTR,Sector of attended postsecondary institution
+F3ISTDATE,Year/month R first attended postsecondary institution
+F3JOBPERSIST,Social-cognitive career theory:  index/scale score for job persistence intentions
+F3JOBSATIS,Social-cognitive career theory:  job satisfaction index/scale score
+F3JOBSUPP,Social-cognitive career theory:  work support index/scale score
+F3JUNEDSTAT,Postsecondary enrollment status as of June 2012
+F3JUNEMPSTAT,Employment status as of June 2012
+F3LIVARR,Current living arrangements
+F3MARRAGE,Age at which R first married
+F3MARRSTATUS,Marital status as of F3
+F3MOBILITYBYF3,Residential mobility:  BY v. F3
+F3MOBILITYF1F2,Residential mobility:  F1 v. F2
+F3MOBILITYF1F3,Residential mobility:  F1 v. F3
+F3MOBILITYF2F3,Residential mobility:  F2 v. F3
+F3NATTND,Number of postsecondary institutions attended
+F3NRSTAT,F3 non-response status
+F3NSLDSSTAT,NSLDS loan/Pell grant data availability status - (as of F3)
+F3NUM2YR,Number of 2-year postsecondary institutions attended
+F3NUM4YR,Number of 4-year postsecondary institutions attended
+F3NUMDPNDNT,Total number of dependents
+F3NUMHI4,Number of highly-selective 4-year PS institutions attended
+F3NUMINCL4,Number of inclusive 4-year PS institutions attended
+F3NUMLT2,Number of less-than-2-year postsecondary institutions attended
+F3NUMMOD4,Number of moderately-selective 4-year PS institutions attended
+F3NUMPRIFOR,Number of private for-profit postsecondary institutions attended
+F3NUMPRINOT,Number of private not-for-profit postsecondary institutions attended
+F3NUMPUB,Number of public postsecondary institutions attended
+F3OCC30BYVF1,Change/stability in occupational expectations:  BY v. F1
+F3OCC30BYVF3,Change/stability in occupational expectations:  BY v. F3
+F3OCC30F1VF3,Change/stability in occupational expectations:  F1 v. F3
+F3ONET2AGE30,2-digit ONET code for expected age-30 occupation
+F3ONET2CURR,2-digit ONET code for current/most recent job
+F3PARAGE,Age at which R first had a child
+F3PELLCUM,Cumulative Pell - (as of F3)
+F3PELLYRS,Pell: number of years received - (as of F3)
+F3PLUSCUM,Cumulative PLUS - (as of F3)
+F3PLUSYRS,PLUS: number of years borrowed (as of F3)
+F3PS1CTR,Control of first-attended PS institution
+F3PS1LVL,Level of first-attended PS institution
+F3PS1OUT,Whether 1st PS institution was out-of-state
+F3PS1RETAIN,Status relative to first-attended postsecondary institution
+F3PS1SEC,Sector of first-attended PS institution
+F3PS1START,Year/month first attended a postsecondary institution
+F3PS2BA,Number of months between PS entry and BA completion
+F3PSLCRED,Whether R earned a credential from their last/currently attended PS institution
+F3PSLCTR,Control of last/currently attended PS institution
+F3PSLLVL,Level of last/currently attended PS institution
+F3PSLSEC,Sector of last/currently attended PS institution
+F3PSLSTART,Year/month R began attending their last/currently attended PS institution
+F3PSSELECT,Highest selectivity among all attended postsecondary institutions
+F3PSTIMING,Timing of first postsecondary enrollment
+F3QPSWT,"Transcript: Panel Weight, F3, and postsecondary Transcript"
+F3QSTAT,F3 questionnaire status
+F3QTSCPSWT,"Transcript: Panel Weight, F3, High School Transcript, and postsecondary Transcript"
+F3QTSCWT,Third follow-up HS transcript respondent weight
+F3QTSCWT_O,Third follow-up HS transcript respondent weight (as of F3 survey)
+F3QWT,Third follow-up questionnaire respondent weight
+F3REGION,Region of F3 residence
+F3SCENCRED,F3 survey: Ever earned a postsecondary credential in a science & engineering field
+F3SCENRCRED,F3 survey: Ever earned a postsecondary credential in a science & engineering-related field
+F3SEIAGE30,SEI-based code for expected age-30 occupation
+F3SEICURR,SEI-based code for current/most recent job
+F3SES,Sample member's socioeconomic status as of F3
+F3SESQU,Quartile coding of the sample member's socioeconomic status as of F3
+F3SINGLEPAR,Single parent indicator
+F3SPERN2011,2011 employment income:  spouse/partner only
+F3SPERN2011IM,Imputation flag - F3SPERN2011 (F3D22)
+F3STAFYRS,Stafford: number of years borrowed (as of F3)
+F3STEM1CRED,F3 survey: Ever earned a postsecondary credential in a STEM field (SMART grant definition)
+F3STEM2CRED,F3 survey: Ever earned a postsecondary credential in a STEM field (NSF grant definition)
+F3STEMOCCA30,STEM occupation flag for student's known expected occupation at age 30 as of F3 (STEM flag for F3ONET6AGE30)
+F3STEMOCCCUR,STEM occupation flag for student's known current occupation as of F3 (STEM flag for F3ONET6CURR)
+F3STEXP,Highest level of education respondent expects to complete - composite
+F3STEXPIM,Imputation flag - F3STEXP (F3A17)
+F3STFCUM3,Cumulative Stafford for undergrad and grad
+F3STLOANAMT,Total amount borrowed in student loans
+F3STLOANAMTIM,Imputation flag - F3STLOANAMT (F3A19)
+F3STLOANEVR,Whether R took out any student/PSE loans
+F3STLOANEVRIM,Imputation flag - F3STLOANEVR (F3A18)
+F3STLOANPAY,Amount currently paid monthly toward student loan balance
+F3STLOANPAYIM,Imputation flag - F3STLOANPAY (F3A21)
+F3SUBCUM3,Cumulative subsidized Stafford and Perkins for undergrad and grad
+F3TZALABERN,Transcript: Advanced laboratory science courses: known credits earned
+F3TZALABGPA,Transcript: Advanced laboratory science courses: known GPA
+F3TZALABTOT,Transcript: Advanced laboratory science courses: known number taken
+F3TZANYDEGRE,Transcript: Any known degree attained as of June 2013
+F3TZASC1CIP2,Transcript: First known Associate's degree major/field of study: 2-digit CIP
+F3TZASCIERN,Transcript: All science courses: known credits earned
+F3TZASCIGPA,Transcript: All science courses: known GPA
+F3TZASCITOT,Transcript: All science courses: known number taken
+F3TZASCLCIP2,Transcript: Most recent known Associate's degree major/field of study: 2-digit CIP
+F3TZASOC1DT,Transcript: Date of first known associate's degree earned
+F3TZASOCLTDT,Transcript: Date of most recent known associate's degree
+F3TZBACH1DT,Transcript: Date of first known bachelor's degree earned
+F3TZBACHL23,Transcript: Most recent known bachelor's degree major/field of study: undergraduate (23 categories)
+F3TZBACHLTDT,Transcript: Date of most recent known bachelor's degree
+F3TZBCH1CIP2,Transcript: First known Bachelor's degree major/field of study: 2-digit CIP
+F3TZBCHLCIP2,Transcript: Most recent known Bachelor's degree major/field of study: 2-digit CIP
+F3TZBIOLERN,Transcript: Biological/agricultural/envir life science courses: known credits earned
+F3TZBIOLGPA,Transcript: Biological/agricultural/envir life science courses: known GPA
+F3TZBIOLTOT,Transcript: Biological/agricultural/envir life science courses: known number taken
+F3TZCALCERN,Transcript: Calculus/advanced math courses: known credits earned
+F3TZCALCGPA,Transcript: Calculus/advanced math courses: known GPA
+F3TZCALCTOT,Transcript: Calculus/advanced math courses: known number taken
+F3TZCERT1DT,Transcript: Date of first known certificate earned
+F3TZCERTLTDT,Transcript: Date of most recent known certificate
+F3TZCMTHERN,Transcript: All college-level mathematics courses: known credits earned
+F3TZCMTHGPA,Transcript: All college-level mathematics courses: known GPA
+F3TZCMTHTOT,Transcript: All college-level mathematics courses: known number taken
+F3TZCOVERAGE,Transcript: Overall transcript coverage indicator
+F3TZCRT1CIP2,Transcript: First known Certificate's degree major/field of study: 2-digit CIP
+F3TZCRTLCIP2,Transcript: Most recent known Certificate's major/degree field of study: 2-digit CIP
+F3TZCTEERN,Transcript: Career and technical education courses: known credits earned
+F3TZCTEGPA,Transcript: Career and technical education courses: known GPA
+F3TZCTETOT,Transcript: Career and technical education courses: known number taken
+F3TZDEG1SEC,Transcript: Sector of institution where first known degree attained
+F3TZDEG1SLC,Transcript: Institutional selectivity of institution where first known degree attained
+F3TZDEG1STRT,Transcript: Year/month first attended institution where first degree attained
+F3TZENGIERN,Transcript: Engineering technologies: known credits earned
+F3TZENGIGPA,Transcript: Engineering technologies: known GPA
+F3TZENGITOT,Transcript: Engineering technologies: known number taken
+F3TZENGRERN,Transcript: Engineering courses: known credits earned
+F3TZENGRGPA,Transcript: Engineering courses: known GPA
+F3TZENGRTOT,Transcript: Engineering courses: known number taken
+F3TZEVER2YR,Transcript: Ever attended a known 2 year institution
+F3TZEVER4YR,Transcript: Ever attended a 4 year institution
+F3TZEVERLT2,Transcript: Ever attended a known less than 2 year institution
+F3TZGPA1STSC,Transcript: GPA at first known institution attended
+F3TZGPAALL,Transcript: GPA at all known institutions attended
+F3TZGPAASSOC,Transcript: GPA at first known associate's degree institution
+F3TZGPALAST,Transcript: GPA at last known institution attended
+F3TZHIGHDEG,Transcript: Highest known degree attained as of June 2013
+F3TZHIGHDEGH,Transcript: Highest known degree attained was with honors
+F3TZHS2PS1,Transcript: Number of months between HS exit and postsecondary entry
+F3TZILABERN,Transcript: Introductory laboratory science courses: known credits earned
+F3TZILABGPA,Transcript: Introductory laboratory science courses: known GPA
+F3TZILABTOT,Transcript: Introductory laboratory science courses: known number taken
+F3TZLSTYRENR,Transcript: Last year of known enrollment
+F3TZMONENROL,Transcript: Total known months enrolled
+F3TZNSTM1GPA,Transcript: GPA for all known non-STEM courses (using SMART Grant definition of STEM)
+F3TZNSTM1TOT,Transcript: Number of known non-STEM courses taken (using SMART Grant definition of STEM)
+F3TZNUMCRSWD,Transcript: Number of known courses with withdrawals
+F3TZPOSTATT,Transcript: Postsecondary career: known credits attempted
+F3TZPOSTERN,Transcript: Postsecondary career: known credits earned
+F3TZPS1SEC,Transcript: Sector of first known postsecondary institution
+F3TZPS1SLC,Transcript: Institutional selectivity of first known postsecondary institution
+F3TZPS1START,Transcript: First attended ever month/year
+F3TZPS2ASSOC,Transcript: Elapsed time from known entry to associate's degree
+F3TZPS2AWD1,Transcript: Elapsed time from known entry to first award
+F3TZPS2BA,Transcript: Elapsed time from known entry to bachelor's degree
+F3TZRECTRANS,Transcript: Number of known transcripts entered
+F3TZREMENGPS,Transcript: Remedial English courses: known number passed
+F3TZREMENTOT,Transcript: Remedial English courses: known number taken
+F3TZREMMTHPS,Transcript: Remedial mathematics courses: known number passed
+F3TZREMMTTOT,Transcript: Remedial mathematics courses: known number taken
+F3TZREMPASS,Transcript: Remedial courses: known number passed
+F3TZREMTOT,Transcript: Remedial courses: known number taken
+F3TZREQTRANS,Transcript: Total transcripts requested
+F3TZSCENCRED,Transcript: Ever earned a postsecondary credential in a science & engineering field as of June 2013
+F3TZSCENGPA,Transcript: Science and Engineering Courses: known GPA
+F3TZSCENRCRED,Transcript: Ever earned a postsecondary credential in a science & engineering-related field as of June 2013
+F3TZSCENRGPA,Transcript: Science and Engineering-Related Courses: known GPA
+F3TZSCENRTOT,Transcript: Science and Engineering-Related Courses: known number taken
+F3TZSCENTOT,Transcript: Science and Engineering Courses: known number taken
+F3TZSCHCOMBO,Transcript: Known Institution combination
+F3TZSCHTOTAL,Transcript: Total known institutions attended
+F3TZSTATERN,Transcript: Statistics courses in all departments: known credits earned
+F3TZSTATGPA,Transcript: Statistics courses in all departments: known GPA
+F3TZSTEM1CRED,Transcript: Ever earned a postsecondary credential in a STEM field as of June 2013 (SMART grant definition)
+F3TZSTEM1GPA,Transcript: GPA for all known STEM courses (using SMART Grant definition of STEM)
+F3TZSTEM1TOT,Transcript: Number of known STEM courses taken (using SMART Grant definition of STEM)
+F3TZSTEM2CRED,Transcript: Ever earned a postsecondary credential in a STEM field as of June 2013 (NSF grant definition)
+F3TZSTEM2GPA,"Transcript: GPA for all known STEM courses (using NSF definition of science, engineering, and related fields of study)"
+F3TZSTEM2TOT,"Transcript: Number of known STEM courses taken (using NSF definition of science, engineering, and related fields of stud"
+F3TZSTOPGT4M,Transcript: Count of known stopouts longer than 4 months
+F3TZTMAS2BCH,Transcript: Elapsed time from known associate's to known bachelor's degree
+F3TZTOTLSTOP,Transcript: Total known elapsed stopout time
+F3TZTRANRESP,Transcript: Transcript response status
+F3TZYR1ERN,Transcript: First year known enrollment: credits earned
+F3TZYR1GPA,Transcript: GPA in first year of known attendance
+F3TZYR2ERN,Transcript: Second year enrollment: known credits earned
+F3TZYR2GPA,Transcript: GPA in known second year of attendance
+F3VOTEBEH,Summary of recent voting behavior
+F3WYGED1,Completed GED to improve/advance at current job (update of F2WYGED1)
+F3WYGED2,Completed GED to train for new job/career (update of F2WYGED2)
+F3WYGED3,Completed GED to improve basic skills (update of F2WYGED3)
+F3WYGED4,Completed GED to met reqrmnts for additional study (update of F2WYGED4)
+F3WYGED5,Completed GED b/c req/encouraged by employer (update of F2WYGED5)
+F3WYGED6,Completed GED for personal/family/social reasons (update of F2WYGED6)
+F21STO_P,First occupation after high school (using ELS BY/F1 coding scheme)
+PSTSCWT,"Transcript: Panel Weight, High School Transcript, and postsecondary Transcript"
+PSWT,Transcript: Postsecondary transcript respondent weight
